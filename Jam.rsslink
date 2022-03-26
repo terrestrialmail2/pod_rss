@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>JAM_Jam</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+    
+    <item>
+      <title>jam_(13)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 60876.997
+Length: 1:05:43.440000</description>
+      <link>https://audio.jukehost.co.uk/qAlAeGE72n5IYmHzqYOzPuDyjLN7qr7O</link>
+      <enclosure url="https://audio.jukehost.co.uk/qAlAeGE72n5IYmHzqYOzPuDyjLN7qr7O" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/Jam13</guid>
+    </item>
+    
+  <item>
+      <title>jam_(12)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 61240.861
+Length: 1:05:43.488000</description>
+      <link>https://audio.jukehost.co.uk/09QIEAAUdOIqEVv6ljIzYV0JubE6BqYb</link>
+      <enclosure url="https://audio.jukehost.co.uk/09QIEAAUdOIqEVv6ljIzYV0JubE6BqYb" type="audio/mpeg" length="1024" />
+      <pubDate>Sun, 12 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/Jam12</guid>
+    </item>
+    
+  <item>
+      <title>jam_(11)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 62244.373
+Length: 1:05:43.488000</description>
+      <link>https://audio.jukehost.co.uk/OazyBphDO9SWCwXx3ykKr3kNbMl6Zp7J</link>
+      <enclosure url="https://audio.jukehost.co.uk/OazyBphDO9SWCwXx3ykKr3kNbMl6Zp7J" type="audio/mpeg" length="1024" />
+      <pubDate>Sat, 11 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/Jam11</guid>
+    </item>
+    
+  <item>
+      <title>jam_(10)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 61642.453
+Length: 1:05:43.488000</description>
+      <link>https://audio.jukehost.co.uk/8EIMwcGjh1gPZ9Ww4FTvIpSIypY1HvLz</link>
+      <enclosure url="https://audio.jukehost.co.uk/8EIMwcGjh1gPZ9Ww4FTvIpSIypY1HvLz" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/Jam10</guid>
+    </item>
+    
+  <item>
+      <title>jam_(9)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 62255.292
+Length: 1:05:43.488000</description>
+      <link>https://audio.jukehost.co.uk/vG8yoB5PArsCOoJmf83K3w23XV5K7iX6</link>
+      <enclosure url="https://audio.jukehost.co.uk/vG8yoB5PArsCOoJmf83K3w23XV5K7iX6" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/Jam9</guid>
+    </item>
+    
+  <item>
+      <title>jam_(8)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 61131.708
+Length: 1:05:43.488000</description>
+      <link>https://audio.jukehost.co.uk/yBgfH4DsobhLm8Rla4PQ1DWzNt4X2bWI</link>
+      <enclosure url="https://audio.jukehost.co.uk/yBgfH4DsobhLm8Rla4PQ1DWzNt4X2bWI" type="audio/mpeg" length="1024" />
+      <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/Jam8</guid>
+    </item>
+    
+  <item>
+      <title>jam_(7)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 61403.724
+Length: 1:05:43.488000</description>
+      <link>https://audio.jukehost.co.uk/oUa483CUOf244Krs3UffdjtxPvemCo5j</link>
+      <enclosure url="https://audio.jukehost.co.uk/oUa483CUOf244Krs3UffdjtxPvemCo5j" type="audio/mpeg" length="1024" />
+      <pubDate>Tue, 07 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/Jam7</guid>
+    </item>
+    
+  <item>
+      <title>jam_(6)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 62037.132
+Length: 1:05:43.488000</description>
+      <link>https://audio.jukehost.co.uk/9XZqaqDuKoxfcjEyZ74NNpsIeEhTNhzU</link>
+      <enclosure url="https://audio.jukehost.co.uk/9XZqaqDuKoxfcjEyZ74NNpsIeEhTNhzU" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/Jam6</guid>
+    </item>
+    
+  <item>
+      <title>jam_(5)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 61074.444
+Length: 1:05:43.488000</description>
+      <link>https://audio.jukehost.co.uk/KUxZ1I7Fhk2u8GPLXicWIkv8xsKqD8tW</link>
+      <enclosure url="https://audio.jukehost.co.uk/KUxZ1I7Fhk2u8GPLXicWIkv8xsKqD8tW" type="audio/mpeg" length="1024" />
+      <pubDate>Sun, 05 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/Jam5</guid>
+    </item>
+    
+  <item>
+      <title>jam_(4)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 61046.676
+Length: 1:05:43.488000</description>
+      <link>https://audio.jukehost.co.uk/TJN5wD5CQQlzxzLFYyS6EOdWSmGAjuea</link>
+      <enclosure url="https://audio.jukehost.co.uk/TJN5wD5CQQlzxzLFYyS6EOdWSmGAjuea" type="audio/mpeg" length="1024" />
+      <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/Jam4</guid>
+    </item>
+    
+  <item>
+      <title>jam_(3)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 61055.556
+Length: 1:05:43.488000</description>
+      <link>https://audio.jukehost.co.uk/KX3hsZfmHDpE5pApDIwlcfdPifrdqLis</link>
+      <enclosure url="https://audio.jukehost.co.uk/KX3hsZfmHDpE5pApDIwlcfdPifrdqLis" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 03 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/Jam3</guid>
+    </item>
+    
+  <item>
+      <title>jam_(2)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 60455.22
+Length: 1:05:43.488000</description>
+      <link>https://audio.jukehost.co.uk/k5KYFuEbhlyIH6biz3171mJzvk0Ksl9j</link>
+      <enclosure url="https://audio.jukehost.co.uk/k5KYFuEbhlyIH6biz3171mJzvk0Ksl9j" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/Jam2</guid>
+    </item>
+    
+  <item>
+      <title>jam_(1)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 60181.14
+Length: 1:05:43.488000</description>
+      <link>https://audio.jukehost.co.uk/f98TmS424SW287MeZazrjNEmGlSscYS8</link>
+      <enclosure url="https://audio.jukehost.co.uk/f98TmS424SW287MeZazrjNEmGlSscYS8" type="audio/mpeg" length="1024" />
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>66</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/Jam1</guid>
+    </item>
+    
+  </channel>
+</rss>

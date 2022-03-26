@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>M2_Fight and Flight</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+    
+    <item>
+      <title>fight_and_flight_(9)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 58243.785
+Length: 1:09:39.356735</description>
+      <link>https://audio.jukehost.co.uk/7PGje15jd4Xb8f0XHRLz4b2mEesTtLv9</link>
+      <enclosure url="https://audio.jukehost.co.uk/7PGje15jd4Xb8f0XHRLz4b2mEesTtLv9" type="audio/mpeg" length="1024" />
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/FightandFlight9</guid>
+    </item>
+    
+  <item>
+      <title>fight_and_flight_(8)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 57517.741
+Length: 1:09:39.408980</description>
+      <link>https://audio.jukehost.co.uk/bvEsMzeoe5CkT4JVSUJj7aAyI5anDG2g</link>
+      <enclosure url="https://audio.jukehost.co.uk/bvEsMzeoe5CkT4JVSUJj7aAyI5anDG2g" type="audio/mpeg" length="1024" />
+      <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/FightandFlight8</guid>
+    </item>
+    
+  <item>
+      <title>fight_and_flight_(7)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 56592.611
+Length: 1:09:39.408980</description>
+      <link>https://audio.jukehost.co.uk/rJ2qQfL6OLwcccc1xESRfEvr32eZs4hZ</link>
+      <enclosure url="https://audio.jukehost.co.uk/rJ2qQfL6OLwcccc1xESRfEvr32eZs4hZ" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/FightandFlight7</guid>
+    </item>
+    
+  <item>
+      <title>fight_and_flight_(6)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 57466.472
+Length: 1:09:39.408980</description>
+      <link>https://audio.jukehost.co.uk/SnRXT6gSYplcVQYORnOX4PfvCDbfxDib</link>
+      <enclosure url="https://audio.jukehost.co.uk/SnRXT6gSYplcVQYORnOX4PfvCDbfxDib" type="audio/mpeg" length="1024" />
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/FightandFlight6</guid>
+    </item>
+    
+  <item>
+      <title>fight_and_flight_(5)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 57200.096
+Length: 1:09:39.408980</description>
+      <link>https://audio.jukehost.co.uk/chxNkFm4WbqyLzbNj7f4avnlhNgFeLYt</link>
+      <enclosure url="https://audio.jukehost.co.uk/chxNkFm4WbqyLzbNj7f4avnlhNgFeLYt" type="audio/mpeg" length="1024" />
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/FightandFlight5</guid>
+    </item>
+    
+  <item>
+      <title>fight_and_flight_(4)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 57317.567
+Length: 1:09:39.408980</description>
+      <link>https://audio.jukehost.co.uk/czZlKxnyp3ZposQoi6JcegbiG9IAPLls</link>
+      <enclosure url="https://audio.jukehost.co.uk/czZlKxnyp3ZposQoi6JcegbiG9IAPLls" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/FightandFlight4</guid>
+    </item>
+    
+  <item>
+      <title>fight_and_flight_(3)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 56927.321
+Length: 1:09:39.408980</description>
+      <link>https://audio.jukehost.co.uk/485bMWJbU7RKrF4nrIuKmDCos8ocuXfv</link>
+      <enclosure url="https://audio.jukehost.co.uk/485bMWJbU7RKrF4nrIuKmDCos8ocuXfv" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/FightandFlight3</guid>
+    </item>
+    
+  <item>
+      <title>fight_and_flight_(2)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 56980.639
+Length: 1:09:39.408980</description>
+      <link>https://audio.jukehost.co.uk/4KvhMDjybUbbGWvmWYZ8HdvP2JdybCEs</link>
+      <enclosure url="https://audio.jukehost.co.uk/4KvhMDjybUbbGWvmWYZ8HdvP2JdybCEs" type="audio/mpeg" length="1024" />
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/FightandFlight2</guid>
+    </item>
+    
+  <item>
+      <title>fight_and_flight_(1)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 56386.233
+Length: 1:09:39.408980</description>
+      <link>https://audio.jukehost.co.uk/IamJSQxN8k2RV3L0IpiHpk4lrjzda8aO</link>
+      <enclosure url="https://audio.jukehost.co.uk/IamJSQxN8k2RV3L0IpiHpk4lrjzda8aO" type="audio/mpeg" length="1024" />
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>70</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/FightandFlight1</guid>
+    </item>
+    
+  </channel>
+</rss>

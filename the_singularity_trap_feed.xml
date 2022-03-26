@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Singularity Trap</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+    
+    <item>
+      <title>the_singularity_trap_(8)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 57094.702
+Length: 1:19:24.896186</description>
+      <link>https://audio.jukehost.co.uk/tseK3Ojq7wdrHHJAEhwBgiSEkgBqHTCn</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/tseK3Ojq7wdrHHJAEhwBgiSEkgBqHTCn" />
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>80</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheSingularityTrap8</guid>
+    </item>
+    
+  <item>
+      <title>the_singularity_trap_(7)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 55127.697
+Length: 1:16:40.750311</description>
+      <link>https://audio.jukehost.co.uk/XETrIWVVCbXd4P7ciJ0Z9aBsxDXflIFy</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/XETrIWVVCbXd4P7ciJ0Z9aBsxDXflIFy" />
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>77</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheSingularityTrap7</guid>
+    </item>
+    
+  <item>
+      <title>the_singularity_trap_(6)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 53860.357
+Length: 15:01:52.595793</description>
+      <link>https://audio.jukehost.co.uk/9cRuXjhSU0M8CzsSq1JBtEQWGj6Hk9XS</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/9cRuXjhSU0M8CzsSq1JBtEQWGj6Hk9XS" />
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>902</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheSingularityTrap6</guid>
+    </item>
+    
+  <item>
+      <title>the_singularity_trap_(5)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 57937.3
+Length: 1:20:35.222242</description>
+      <link>https://audio.jukehost.co.uk/a8XybEqn4GVhPT09fVpaxo7W2VBBzbpf</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/a8XybEqn4GVhPT09fVpaxo7W2VBBzbpf" />
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheSingularityTrap5</guid>
+    </item>
+    
+  <item>
+      <title>the_singularity_trap_(4)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 58045.022
+Length: 0:53:46.039413</description>
+      <link>https://audio.jukehost.co.uk/pMGekjd8ecnd3s7pglJJzHSG1LdUKudF</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/pMGekjd8ecnd3s7pglJJzHSG1LdUKudF" />
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheSingularityTrap4</guid>
+    </item>
+    
+  <item>
+      <title>the_singularity_trap_(3)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 58092.407
+Length: 1:20:48.162952</description>
+      <link>https://audio.jukehost.co.uk/QtazuBq0T5z2dqDl9VU8IBPt9lrO4r1Z</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/QtazuBq0T5z2dqDl9VU8IBPt9lrO4r1Z" />
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>81</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheSingularityTrap3</guid>
+    </item>
+    
+  <item>
+      <title>the_singularity_trap_(2)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 58325.344
+Length: 1:37:17.394211</description>
+      <link>https://audio.jukehost.co.uk/7ckpIlLKmTTud3li5WgsyKuPXcTjI2pi</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/7ckpIlLKmTTud3li5WgsyKuPXcTjI2pi" />
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>98</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheSingularityTrap2</guid>
+    </item>
+    
+  <item>
+      <title>the_singularity_trap_(1)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 61183.862
+Length: 16:54:38.274914</description>
+      <link>https://audio.jukehost.co.uk/3haAGtwDLnGG7rAa4z2I0sv93tiznbAN</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/3haAGtwDLnGG7rAa4z2I0sv93tiznbAN" />
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>1015</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheSingularityTrap1</guid>
+    </item>
+    
+  </channel>
+</rss>

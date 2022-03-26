@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Will Destroy the Galaxy for Cash</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+    
+    <item>
+      <title>Will_Destroy_the_Galaxy_for_Cash_(7)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 77399.797
+Length: 0:40:21.361062</description>
+      <link>https://audio.jukehost.co.uk/XMfZ28lGStnygPUBKooFVgafkxkPApb1</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/XMfZ28lGStnygPUBKooFVgafkxkPApb1" />
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/WillDestroytheGalaxyforCash7</guid>
+    </item>
+    
+  <item>
+      <title>Will_Destroy_the_Galaxy_for_Cash_(6)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 77757.299
+Length: 0:40:32.543754</description>
+      <link>https://audio.jukehost.co.uk/X0N0qTNSeFBvaacVeZDVPz4IG9VH0Sso</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/X0N0qTNSeFBvaacVeZDVPz4IG9VH0Sso" />
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/WillDestroytheGalaxyforCash6</guid>
+    </item>
+    
+  <item>
+      <title>Will_Destroy_the_Galaxy_for_Cash_(5)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 77047.108
+Length: 0:53:35.053332</description>
+      <link>https://audio.jukehost.co.uk/k0ZNbKBjcR6VVYyWL1I3YFeDJypucqt3</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/k0ZNbKBjcR6VVYyWL1I3YFeDJypucqt3" />
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/WillDestroytheGalaxyforCash5</guid>
+    </item>
+    
+  <item>
+      <title>Will_Destroy_the_Galaxy_for_Cash_(4)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 79252.413
+Length: 0:41:19.317453</description>
+      <link>https://audio.jukehost.co.uk/GDhFYiKBiMRg04IcgJXrJM5tBrS76rOQ</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/GDhFYiKBiMRg04IcgJXrJM5tBrS76rOQ" />
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/WillDestroytheGalaxyforCash4</guid>
+    </item>
+    
+  <item>
+      <title>Will_Destroy_the_Galaxy_for_Cash_(3)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 76670.975
+Length: 0:39:58.560325</description>
+      <link>https://audio.jukehost.co.uk/MWDLKh0IYnqfIikWCKt55eLYocJ87usw</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/MWDLKh0IYnqfIikWCKt55eLYocJ87usw" />
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/WillDestroytheGalaxyforCash3</guid>
+    </item>
+    
+  <item>
+      <title>Will_Destroy_the_Galaxy_for_Cash_(2)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 75826.573
+Length: 0:39:32.143740</description>
+      <link>https://audio.jukehost.co.uk/8GzEfmEQPlB6mXdr2eJT8ATC9IPlpCTQ</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/8GzEfmEQPlB6mXdr2eJT8ATC9IPlpCTQ" />
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/WillDestroytheGalaxyforCash2</guid>
+    </item>
+    
+  <item>
+      <title>Will_Destroy_the_Galaxy_for_Cash_(1)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 77256.749
+Length: 5:20:58.340973</description>
+      <link>https://audio.jukehost.co.uk/djR6NQ128EixwQTuc2BthqSWgiOtwW09</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/djR6NQ128EixwQTuc2BthqSWgiOtwW09" />
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>321</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/WillDestroytheGalaxyforCash1</guid>
+    </item>
+    
+  </channel>
+</rss>

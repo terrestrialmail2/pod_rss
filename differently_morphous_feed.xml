@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Differently Morphous</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+    
+    <item>
+      <title>differently_morphous_(7)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 65887.651
+Length: 1:08:42.352264</description>
+      <link>https://audio.jukehost.co.uk/32fWImbwmNwHWcgWRreF39WJifQjYGk0</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/32fWImbwmNwHWcgWRreF39WJifQjYGk0" />
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/DifferentlyMorphous7</guid>
+    </item>
+    
+  <item>
+      <title>differently_morphous_(6)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 66238.425
+Length: 1:18:53.923783</description>
+      <link>https://audio.jukehost.co.uk/PkaFRLRzvX2X3hipTQjJ6rw9EhYeCxfa</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/PkaFRLRzvX2X3hipTQjJ6rw9EhYeCxfa" />
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/DifferentlyMorphous6</guid>
+    </item>
+    
+  <item>
+      <title>differently_morphous_(5)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 66037.625
+Length: 1:18:39.587097</description>
+      <link>https://audio.jukehost.co.uk/Kiop0JI7RBD69BbzpOKToCmcCirKVKoc</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/Kiop0JI7RBD69BbzpOKToCmcCirKVKoc" />
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/DifferentlyMorphous5</guid>
+    </item>
+    
+  <item>
+      <title>differently_morphous_(4)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 67635.582
+Length: 1:02:39.040361</description>
+      <link>https://audio.jukehost.co.uk/YSVyT8fPv2e7AmNJnEVKxBKyzXy41ZxB</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/YSVyT8fPv2e7AmNJnEVKxBKyzXy41ZxB" />
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>63</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/DifferentlyMorphous4</guid>
+    </item>
+    
+  <item>
+      <title>differently_morphous_(3)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 65719.87
+Length: 1:08:31.870373</description>
+      <link>https://audio.jukehost.co.uk/y3NUz5OMEHfP2yTDTRmf1EXRG9wVngq7</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/y3NUz5OMEHfP2yTDTRmf1EXRG9wVngq7" />
+      <pubDate>Wed, 03 Jan 2018 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>69</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/DifferentlyMorphous3</guid>
+    </item>
+    
+  <item>
+      <title>differently_morphous_(2)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 65593.947
+Length: 1:00:45.572613</description>
+      <link>https://audio.jukehost.co.uk/FVafhrJFgsQEVHYN9u2NWjtx9qdOZKPu</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/FVafhrJFgsQEVHYN9u2NWjtx9qdOZKPu" />
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>61</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/DifferentlyMorphous2</guid>
+    </item>
+    
+  <item>
+      <title>differently_morphous_(1)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 66089.763
+Length: 18:17:34.466813</description>
+      <link>https://audio.jukehost.co.uk/gSs5DnapsM31fBd1iKkBcYnARD4zCODD</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/gSs5DnapsM31fBd1iKkBcYnARD4zCODD" />
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>1098</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/DifferentlyMorphous1</guid>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Mogworld</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+
+
+    <item>
+      <title>mogworld_ptp2_(10)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/mruoQNQiMZY3tDVV8wrBkw4xvekMzZoZ</link>
+      <enclosure url="https://audio.jukehost.co.uk/mruoQNQiMZY3tDVV8wrBkw4xvekMzZoZ" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 16:10:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com210/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp2_(09)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/c5MOR9dLOp0fbph7vDSjOp5ScCQlZLuz</link>
+      <enclosure url="https://audio.jukehost.co.uk/c5MOR9dLOp0fbph7vDSjOp5ScCQlZLuz" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 16:00:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com29/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp2_(08)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/Vdb3H6de8iiIpNxhOqiariwGWhBe5Pfa</link>
+      <enclosure url="https://audio.jukehost.co.uk/Vdb3H6de8iiIpNxhOqiariwGWhBe5Pfa" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 15:50:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com28/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp2_(07)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/5ockgJCbHMGJ14ohTGWcjfGRSTUhIns1</link>
+      <enclosure url="https://audio.jukehost.co.uk/5ockgJCbHMGJ14ohTGWcjfGRSTUhIns1" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 15:40:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com27/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp2_(06)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/E5Ti55sCMVXeAO0u8nnxUwMdjsItvzkI</link>
+      <enclosure url="https://audio.jukehost.co.uk/E5Ti55sCMVXeAO0u8nnxUwMdjsItvzkI" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 15:30:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com26/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp2_(05)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/BZ48WBDkwvzKsGc5067JjXblQA6nVKFJ</link>
+      <enclosure url="https://audio.jukehost.co.uk/BZ48WBDkwvzKsGc5067JjXblQA6nVKFJ" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 15:20:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com25/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp2_(04)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/HcnhRuoSC1yP8YtAPf5Ns6fh7wXcwOns</link>
+      <enclosure url="https://audio.jukehost.co.uk/HcnhRuoSC1yP8YtAPf5Ns6fh7wXcwOns" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 15:10:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com24/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp2_(03)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/gwyoKDr7xPhHOh7CNcmyOHSp2t3qDa81</link>
+      <enclosure url="https://audio.jukehost.co.uk/gwyoKDr7xPhHOh7CNcmyOHSp2t3qDa81" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 15:00:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com23/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp2_(02)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/Kunzld5Lx9YjItjain3s3jXQdwe2vgUV</link>
+      <enclosure url="https://audio.jukehost.co.uk/Kunzld5Lx9YjItjain3s3jXQdwe2vgUV" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 14:50:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com22/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp2_(01)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/I4qECnqzgjlGXFxZlcETl64e13WVB7VP</link>
+      <enclosure url="https://audio.jukehost.co.uk/I4qECnqzgjlGXFxZlcETl64e13WVB7VP" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 14:40:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com21/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp1_(10)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/waWJXA7pk2DYrJkfgDbslKZaHKUHtZ3U</link>
+      <enclosure url="https://audio.jukehost.co.uk/waWJXA7pk2DYrJkfgDbslKZaHKUHtZ3U" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 14:30:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com110/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp1_(09)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/vwUfSqwVccw3AQ6BLKgnYUyEls8Ns2a7</link>
+      <enclosure url="https://audio.jukehost.co.uk/vwUfSqwVccw3AQ6BLKgnYUyEls8Ns2a7" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 14:20:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com19/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp1_(08)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/STuSnPm9xcLxphcH7reWYzVUeZq68lIz</link>
+      <enclosure url="https://audio.jukehost.co.uk/STuSnPm9xcLxphcH7reWYzVUeZq68lIz" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 14:10:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com18/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp1_(07)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/6bm6MDDbe7Qs5Mfpzbgg2IAR3mjbgxdL</link>
+      <enclosure url="https://audio.jukehost.co.uk/6bm6MDDbe7Qs5Mfpzbgg2IAR3mjbgxdL" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 14:00:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com17/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp1_(06)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/nm9uVi5omkzkCFX7oBH8Qu09RiJczBDZ</link>
+      <enclosure url="https://audio.jukehost.co.uk/nm9uVi5omkzkCFX7oBH8Qu09RiJczBDZ" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 13:50:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com16/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp1_(05)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/ChnwOptcwBxWFfkPwgIhOdIVbNFxWutR</link>
+      <enclosure url="https://audio.jukehost.co.uk/ChnwOptcwBxWFfkPwgIhOdIVbNFxWutR" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 13:40:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com15/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp1_(04)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/9anViQxwiwB4ejQMQTVQpDTXKkIQpEY2</link>
+      <enclosure url="https://audio.jukehost.co.uk/9anViQxwiwB4ejQMQTVQpDTXKkIQpEY2" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 13:30:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com14/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp1_(03)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/WvmSkNyXSTkrOStmyJpHvnlwoLuXCp2m</link>
+      <enclosure url="https://audio.jukehost.co.uk/WvmSkNyXSTkrOStmyJpHvnlwoLuXCp2m" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 13:20:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com13/</guid>
+    </item>
+
+    <item>
+      <title>mogworld_ptp1_(02)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/N3paO1mapGxnPAP5HRjEVDmEc5TW8ri2</link>
+      <enclosure url="https://audio.jukehost.co.uk/N3paO1mapGxnPAP5HRjEVDmEc5TW8ri2" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 13:10:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com12/</guid>
+    </item>
+
+
+    <item>
+      <title>mogworld_ptp1_(01)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>Description of podcast episode content</description>
+      <link>https://audio.jukehost.co.uk/HR0115XXNrpK96HrJIBq5K2JxiRYfCkQ</link>
+      <enclosure url="https://audio.jukehost.co.uk/HR0115XXNrpK96HrJIBq5K2JxiRYfCkQ" type="audio/mpeg" length="1024"></enclosure>
+      <pubDate>Fri, 03 Oct 2003 13:00:00 EST</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>00:39:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com11/</guid>
+    </item>
+
+    </channel>
+</rss>

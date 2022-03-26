@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>M2_Spell or High Water</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+    
+    <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 24842.34
+Length: 0:38:10.155102</description>
+      <link>https://audio.jukehost.co.uk/y1B5U73zttF064wuff5cQLda1FQT7tZr</link>
+      <enclosure url="https://audio.jukehost.co.uk/y1B5U73zttF064wuff5cQLda1FQT7tZr" type="audio/mpeg" length="1024" />
+      <pubDate>Sat, 08 Feb 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater39</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 2274.139
+Length: 0:03:29.240816</description>
+      <link>https://audio.jukehost.co.uk/9HLVKkW7VK9sbun6Ps11YxPPQTxzQQ70</link>
+      <enclosure url="https://audio.jukehost.co.uk/9HLVKkW7VK9sbun6Ps11YxPPQTxzQQ70" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 07 Feb 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>4</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater38</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 22903.16
+Length: 0:33:59.275102</description>
+      <link>https://audio.jukehost.co.uk/kpKAYtsU9jNLZKY8ddV2mNtynBWhbONh</link>
+      <enclosure url="https://audio.jukehost.co.uk/kpKAYtsU9jNLZKY8ddV2mNtynBWhbONh" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>34</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater37</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 13785.294
+Length: 0:20:41.260408</description>
+      <link>https://audio.jukehost.co.uk/XEQpn0jCXdq4hrw7FeTkhS3Y51UQAg6K</link>
+      <enclosure url="https://audio.jukehost.co.uk/XEQpn0jCXdq4hrw7FeTkhS3Y51UQAg6K" type="audio/mpeg" length="1024" />
+      <pubDate>Wed, 05 Feb 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater36</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 11574.748
+Length: 0:17:05.280000</description>
+      <link>https://audio.jukehost.co.uk/53cpSWHWpeKUFnJoaR45i6deCFqzotop</link>
+      <enclosure url="https://audio.jukehost.co.uk/53cpSWHWpeKUFnJoaR45i6deCFqzotop" type="audio/mpeg" length="1024" />
+      <pubDate>Tue, 04 Feb 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater35</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 45099.433
+Length: 1:06:41.410612</description>
+      <link>https://audio.jukehost.co.uk/9mNsT5swCPpRCmuac9yQdeuEQA4Hghiw</link>
+      <enclosure url="https://audio.jukehost.co.uk/9mNsT5swCPpRCmuac9yQdeuEQA4Hghiw" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 03 Feb 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>67</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater34</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 15697.247
+Length: 0:24:13.270204</description>
+      <link>https://audio.jukehost.co.uk/VItpcvDO7cHCdQt6XtE9gFeeMT92QBCd</link>
+      <enclosure url="https://audio.jukehost.co.uk/VItpcvDO7cHCdQt6XtE9gFeeMT92QBCd" type="audio/mpeg" length="1024" />
+      <pubDate>Sun, 02 Feb 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater33</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 8860.587
+Length: 0:13:22.220408</description>
+      <link>https://audio.jukehost.co.uk/Qik4tt2MbSfy3QtuH7Z4ue1ab7YOOWXR</link>
+      <enclosure url="https://audio.jukehost.co.uk/Qik4tt2MbSfy3QtuH7Z4ue1ab7YOOWXR" type="audio/mpeg" length="1024" />
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater32</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 8949.889
+Length: 0:13:42.230204</description>
+      <link>https://audio.jukehost.co.uk/l1HyZDgpbcVBpyJw3ZwwzhCjUNt1HXeT</link>
+      <enclosure url="https://audio.jukehost.co.uk/l1HyZDgpbcVBpyJw3ZwwzhCjUNt1HXeT" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater31</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 6370.188
+Length: 0:09:44.228571</description>
+      <link>https://audio.jukehost.co.uk/odUomG6ooCvUesOUNEOEXKuofmEbgZuo</link>
+      <enclosure url="https://audio.jukehost.co.uk/odUomG6ooCvUesOUNEOEXKuofmEbgZuo" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 30 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>10</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater30</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 8208.659
+Length: 0:12:49.253878</description>
+      <link>https://audio.jukehost.co.uk/IgiSKlLhUqIudcDdFdGzG1quykK2rE7o</link>
+      <enclosure url="https://audio.jukehost.co.uk/IgiSKlLhUqIudcDdFdGzG1quykK2rE7o" type="audio/mpeg" length="1024" />
+      <pubDate>Wed, 29 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>13</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater29</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 8805.967
+Length: 0:13:27.235918</description>
+      <link>https://audio.jukehost.co.uk/v04reCgnrisHEyrCZyDGsws4uEa4ZH97</link>
+      <enclosure url="https://audio.jukehost.co.uk/v04reCgnrisHEyrCZyDGsws4uEa4ZH97" type="audio/mpeg" length="1024" />
+      <pubDate>Tue, 28 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater28</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 14939.16
+Length: 0:21:46.226939</description>
+      <link>https://audio.jukehost.co.uk/rnV6raknHNmqA8uqNXr1S5DVrdKj9fY5</link>
+      <enclosure url="https://audio.jukehost.co.uk/rnV6raknHNmqA8uqNXr1S5DVrdKj9fY5" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 27 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater27</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 5989.625
+Length: 0:08:57.234286</description>
+      <link>https://audio.jukehost.co.uk/XLd3yWNBvuvIYhXkUKfdEUV2OkqK2TR2</link>
+      <enclosure url="https://audio.jukehost.co.uk/XLd3yWNBvuvIYhXkUKfdEUV2OkqK2TR2" type="audio/mpeg" length="1024" />
+      <pubDate>Sun, 26 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>9</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater26</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 11142.062
+Length: 0:16:46.236735</description>
+      <link>https://audio.jukehost.co.uk/kkYLjJzCAjmFOl4fXAxv77bhiuH45vei</link>
+      <enclosure url="https://audio.jukehost.co.uk/kkYLjJzCAjmFOl4fXAxv77bhiuH45vei" type="audio/mpeg" length="1024" />
+      <pubDate>Sat, 25 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater25</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 12807.081
+Length: 0:19:27.229388</description>
+      <link>https://audio.jukehost.co.uk/2KUHdN24JlyJmBU7Aa2GjjnUyzXEhO9h</link>
+      <enclosure url="https://audio.jukehost.co.uk/2KUHdN24JlyJmBU7Aa2GjjnUyzXEhO9h" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 24 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater24</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 8873.189
+Length: 0:13:26.269388</description>
+      <link>https://audio.jukehost.co.uk/xOfcQCxlRiBeWIbE5LmmGJmf1EmMLDSJ</link>
+      <enclosure url="https://audio.jukehost.co.uk/xOfcQCxlRiBeWIbE5LmmGJmf1EmMLDSJ" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 23 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater23</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 18675.73
+Length: 0:27:09.309388</description>
+      <link>https://audio.jukehost.co.uk/sAkI723TWFLBy442YOLo8kpdkCZX6rdT</link>
+      <enclosure url="https://audio.jukehost.co.uk/sAkI723TWFLBy442YOLo8kpdkCZX6rdT" type="audio/mpeg" length="1024" />
+      <pubDate>Wed, 22 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater22</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 9724.079
+Length: 0:14:46.230204</description>
+      <link>https://audio.jukehost.co.uk/4KPRrYluHxEgvzHVgWaad8CNhJhEjLuY</link>
+      <enclosure url="https://audio.jukehost.co.uk/4KPRrYluHxEgvzHVgWaad8CNhJhEjLuY" type="audio/mpeg" length="1024" />
+      <pubDate>Tue, 21 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater21</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 9156.049
+Length: 0:13:43.248980</description>
+      <link>https://audio.jukehost.co.uk/lK6eKOSL2rviLWa9JwVtc7YOQ7aDseoF</link>
+      <enclosure url="https://audio.jukehost.co.uk/lK6eKOSL2rviLWa9JwVtc7YOQ7aDseoF" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 20 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater20</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 15598.13
+Length: 0:22:56.208980</description>
+      <link>https://audio.jukehost.co.uk/kTIfQHGtCoyriqNTFPjyky6brBELqyDd</link>
+      <enclosure url="https://audio.jukehost.co.uk/kTIfQHGtCoyriqNTFPjyky6brBELqyDd" type="audio/mpeg" length="1024" />
+      <pubDate>Sun, 19 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater19</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 14317.018
+Length: 0:22:07.281633</description>
+      <link>https://audio.jukehost.co.uk/3EinPBd2jgHUubK6N98bOuFPBnugqR4Y</link>
+      <enclosure url="https://audio.jukehost.co.uk/3EinPBd2jgHUubK6N98bOuFPBnugqR4Y" type="audio/mpeg" length="1024" />
+      <pubDate>Sat, 18 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater18</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 8996.631
+Length: 0:13:14.226939</description>
+      <link>https://audio.jukehost.co.uk/64i6761pEbgoLBHjI1JDiCFRT4FLTgWn</link>
+      <enclosure url="https://audio.jukehost.co.uk/64i6761pEbgoLBHjI1JDiCFRT4FLTgWn" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater17</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 7483.857
+Length: 0:11:30.259592</description>
+      <link>https://audio.jukehost.co.uk/8VTV5vV6VNi1LrWvmUEKUH7TJYN7QSHc</link>
+      <enclosure url="https://audio.jukehost.co.uk/8VTV5vV6VNi1LrWvmUEKUH7TJYN7QSHc" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 16 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater16</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 23901.739
+Length: 0:36:45.309388</description>
+      <link>https://audio.jukehost.co.uk/yPuMY1WJgjQLRKvja1DPMXPvS1APISbW</link>
+      <enclosure url="https://audio.jukehost.co.uk/yPuMY1WJgjQLRKvja1DPMXPvS1APISbW" type="audio/mpeg" length="1024" />
+      <pubDate>Wed, 15 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater15</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 5175.888
+Length: 0:07:41.270204</description>
+      <link>https://audio.jukehost.co.uk/9Lb0xaGWo4MXUrfBxxgTfPacicx6Qrwf</link>
+      <enclosure url="https://audio.jukehost.co.uk/9Lb0xaGWo4MXUrfBxxgTfPacicx6Qrwf" type="audio/mpeg" length="1024" />
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>8</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater14</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 5196.083
+Length: 0:07:55.245714</description>
+      <link>https://audio.jukehost.co.uk/5xhOnkOrRtAadaosv7TQMurc8uyJ94Jj</link>
+      <enclosure url="https://audio.jukehost.co.uk/5xhOnkOrRtAadaosv7TQMurc8uyJ94Jj" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 13 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>8</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater13</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 27274.277
+Length: 0:41:40.284082</description>
+      <link>https://audio.jukehost.co.uk/qpSDcV6NcJjwxVPEaIsZygHF45LfEsK9</link>
+      <enclosure url="https://audio.jukehost.co.uk/qpSDcV6NcJjwxVPEaIsZygHF45LfEsK9" type="audio/mpeg" length="1024" />
+      <pubDate>Sun, 12 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater12</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 10942.082
+Length: 0:16:59.454694</description>
+      <link>https://audio.jukehost.co.uk/33wgK6o6ToJXjzQHdKlcS9SV1ypYVd5n</link>
+      <enclosure url="https://audio.jukehost.co.uk/33wgK6o6ToJXjzQHdKlcS9SV1ypYVd5n" type="audio/mpeg" length="1024" />
+      <pubDate>Sat, 11 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater11</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 4265.539
+Length: 0:06:18.279184</description>
+      <link>https://audio.jukehost.co.uk/cAkBO3uSIWftktQL57sL1CkNaKv1Ccdk</link>
+      <enclosure url="https://audio.jukehost.co.uk/cAkBO3uSIWftktQL57sL1CkNaKv1Ccdk" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 10 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>7</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater10</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 12014.459
+Length: 0:18:01.286531</description>
+      <link>https://audio.jukehost.co.uk/Gidae7169Y7d0ZDfyM0KcaPC0bEEBt0p</link>
+      <enclosure url="https://audio.jukehost.co.uk/Gidae7169Y7d0ZDfyM0KcaPC0bEEBt0p" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 09 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater9</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 11838.637
+Length: 0:17:50.236735</description>
+      <link>https://audio.jukehost.co.uk/HKcbsDz1OfnqTiOEI00LIsnzm4qsESX8</link>
+      <enclosure url="https://audio.jukehost.co.uk/HKcbsDz1OfnqTiOEI00LIsnzm4qsESX8" type="audio/mpeg" length="1024" />
+      <pubDate>Wed, 08 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater8</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 8634.774
+Length: 0:13:08.244898</description>
+      <link>https://audio.jukehost.co.uk/kBGNxXSj7vwqVLgcoeGcHLyko1fGfkkj</link>
+      <enclosure url="https://audio.jukehost.co.uk/kBGNxXSj7vwqVLgcoeGcHLyko1fGfkkj" type="audio/mpeg" length="1024" />
+      <pubDate>Tue, 07 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater7</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 7388.137
+Length: 0:11:16.284082</description>
+      <link>https://audio.jukehost.co.uk/KSN3mV5TSMykQvVb10H8luBXMXSoJDWp</link>
+      <enclosure url="https://audio.jukehost.co.uk/KSN3mV5TSMykQvVb10H8luBXMXSoJDWp" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 06 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater6</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 14603.766
+Length: 0:21:50.223673</description>
+      <link>https://audio.jukehost.co.uk/hfl8yAVJCRhNZmHTDER7a65YIY4LC5Qe</link>
+      <enclosure url="https://audio.jukehost.co.uk/hfl8yAVJCRhNZmHTDER7a65YIY4LC5Qe" type="audio/mpeg" length="1024" />
+      <pubDate>Sun, 05 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater5</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 4917.607
+Length: 0:07:36.254694</description>
+      <link>https://audio.jukehost.co.uk/YTLzF1JcvDxSIr0eo0UU00vGOeotGeW8</link>
+      <enclosure url="https://audio.jukehost.co.uk/YTLzF1JcvDxSIr0eo0UU00vGOeotGeW8" type="audio/mpeg" length="1024" />
+      <pubDate>Sat, 04 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>8</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater4</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 8944.253
+Length: 0:13:57.224490</description>
+      <link>https://audio.jukehost.co.uk/KILBUhJtZ41nnYzfBX0TeTg3vpOfi7s4</link>
+      <enclosure url="https://audio.jukehost.co.uk/KILBUhJtZ41nnYzfBX0TeTg3vpOfi7s4" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 03 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater3</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 7015.051
+Length: 0:10:52.277551</description>
+      <link>https://audio.jukehost.co.uk/YoFKiSKcuF0a4s1sFK0P66jeqIIqLbmJ</link>
+      <enclosure url="https://audio.jukehost.co.uk/YoFKiSKcuF0a4s1sFK0P66jeqIIqLbmJ" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 02 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>11</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater2</guid>
+    </item>
+    
+  <item>
+      <title>: Magic 2.0</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 14387.714
+Length: 0:22:09.136327</description>
+      <link>https://audio.jukehost.co.uk/37Xvt1iovqatVuL3cfn0JVnhY0R88Qi3</link>
+      <enclosure url="https://audio.jukehost.co.uk/37Xvt1iovqatVuL3cfn0JVnhY0R88Qi3" type="audio/mpeg" length="1024" />
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/SpellorHighWater1</guid>
+    </item>
+    
+  </channel>
+</rss>

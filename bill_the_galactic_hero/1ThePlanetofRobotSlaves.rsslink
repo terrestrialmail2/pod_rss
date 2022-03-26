@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>BTGH_1 The Planet of Robot Slaves</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+    
+    <item>
+      <title>1_the_planet_of_robot_slaves_(5)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 56331.5
+Length: 1:24:40.450612</description>
+      <link>https://audio.jukehost.co.uk/fRPj3J9ksFccwW3S5upfz13IKBDkC8a8</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/fRPj3J9ksFccwW3S5upfz13IKBDkC8a8" />
+      <pubDate>Sat, 06 Jan 1990 01:01:01 +0009</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/1ThePlanetofRobotSlaves5</guid>
+    </item>
+    
+  <item>
+      <title>1_the_planet_of_robot_slaves_(4)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 55397.919
+Length: 1:24:40.450612</description>
+      <link>https://audio.jukehost.co.uk/fhIwpgRKdHt7LDK292TBbArm9bCdPEaB</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/fhIwpgRKdHt7LDK292TBbArm9bCdPEaB" />
+      <pubDate>Fri, 05 Jan 1990 01:01:01 +0009</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/1ThePlanetofRobotSlaves4</guid>
+    </item>
+    
+  <item>
+      <title>1_the_planet_of_robot_slaves_(3)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 55728.463
+Length: 1:24:40.450612</description>
+      <link>https://audio.jukehost.co.uk/vfTVUyG1pt4zntwiOtCweD4s16MT0gM5</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/vfTVUyG1pt4zntwiOtCweD4s16MT0gM5" />
+      <pubDate>Thu, 04 Jan 1990 01:01:01 +0009</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/1ThePlanetofRobotSlaves3</guid>
+    </item>
+    
+  <item>
+      <title>1_the_planet_of_robot_slaves_(2)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 55939.801
+Length: 1:24:40.450612</description>
+      <link>https://audio.jukehost.co.uk/CYGoSEdSAKj6Sbwn8V7zPVjE6zHrFaDo</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/CYGoSEdSAKj6Sbwn8V7zPVjE6zHrFaDo" />
+      <pubDate>Wed, 03 Jan 1990 01:01:01 +0009</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/1ThePlanetofRobotSlaves2</guid>
+    </item>
+    
+  <item>
+      <title>1_the_planet_of_robot_slaves_(1)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 55813.343
+Length: 1:24:40.450612</description>
+      <link>https://audio.jukehost.co.uk/mUgZvLeGU1vKcmKIzrc77D3WcNk7paHW</link>
+      <enclosure length="1024" type="audio/mpeg" url="https://audio.jukehost.co.uk/mUgZvLeGU1vKcmKIzrc77D3WcNk7paHW" />
+      <pubDate>Tue, 02 Jan 1990 01:01:01 +0009</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>85</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/1ThePlanetofRobotSlaves1</guid>
+    </item>
+    
+  </channel>
+</rss>

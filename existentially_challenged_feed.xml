@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>DM_Existentially Challenged</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+    
+    <item>
+      <title>existentially_challenged_(7)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 72690.796
+Length: 1:18:44.453878</description>
+      <link>https://audio.jukehost.co.uk/URIVHNeDuLo6jZJ895CVw9LuHFxmhsXp</link>
+      <enclosure url="https://audio.jukehost.co.uk/URIVHNeDuLo6jZJ895CVw9LuHFxmhsXp" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ExistentiallyChallenged7</guid>
+    </item>
+    
+  <item>
+      <title>existentially_challenged_(6)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 72776.901
+Length: 1:18:44.453878</description>
+      <link>https://audio.jukehost.co.uk/EZRsVgd0RICCyQ9SxMN1o89LnlSIVMbQ</link>
+      <enclosure url="https://audio.jukehost.co.uk/EZRsVgd0RICCyQ9SxMN1o89LnlSIVMbQ" type="audio/mpeg" length="1024" />
+      <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ExistentiallyChallenged6</guid>
+    </item>
+    
+  <item>
+      <title>existentially_challenged_(5)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 73106.043
+Length: 1:18:44.453878</description>
+      <link>https://audio.jukehost.co.uk/ilP7rxw2X8Tb2vJmSXyCnDbC5krwxdaK</link>
+      <enclosure url="https://audio.jukehost.co.uk/ilP7rxw2X8Tb2vJmSXyCnDbC5krwxdaK" type="audio/mpeg" length="1024" />
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ExistentiallyChallenged5</guid>
+    </item>
+    
+  <item>
+      <title>existentially_challenged_(4)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 75104.294
+Length: 1:18:44.453878</description>
+      <link>https://audio.jukehost.co.uk/99jIuta7XifZwPWRvJbYhiNJ2LAZpTKQ</link>
+      <enclosure url="https://audio.jukehost.co.uk/99jIuta7XifZwPWRvJbYhiNJ2LAZpTKQ" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ExistentiallyChallenged4</guid>
+    </item>
+    
+  <item>
+      <title>existentially_challenged_(3)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 75194.807
+Length: 1:18:44.453878</description>
+      <link>https://audio.jukehost.co.uk/2M6Lj7TWRweILGN6B6faXj6eHGJyny1k</link>
+      <enclosure url="https://audio.jukehost.co.uk/2M6Lj7TWRweILGN6B6faXj6eHGJyny1k" type="audio/mpeg" length="1024" />
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ExistentiallyChallenged3</guid>
+    </item>
+    
+  <item>
+      <title>existentially_challenged_(2)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 74800.414
+Length: 1:18:44.453878</description>
+      <link>https://audio.jukehost.co.uk/YJlQPTzbO57jaxpO2Mo8ehTGUm6dE9eq</link>
+      <enclosure url="https://audio.jukehost.co.uk/YJlQPTzbO57jaxpO2Mo8ehTGUm6dE9eq" type="audio/mpeg" length="1024" />
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ExistentiallyChallenged2</guid>
+    </item>
+    
+  <item>
+      <title>existentially_challenged_(1)</title>
+      <itunes:summary>Updated Description</itunes:summary>
+      <description>size (MB): 77201.461
+Length: 1:18:44.453878</description>
+      <link>https://audio.jukehost.co.uk/PmpC8xA5nGM7n8CYmjscK6deMHlDOxwG</link>
+      <enclosure url="https://audio.jukehost.co.uk/PmpC8xA5nGM7n8CYmjscK6deMHlDOxwG" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <itunes:author>ATT</itunes:author>
+      <itunes:duration>79</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ExistentiallyChallenged1</guid>
+    </item>
+    
+  </channel>
+</rss>
+
