@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>(TSA) Rhythm of War</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+    
+    <item>
+      <title>Rhythm of War 5 (6-1)</title>
+      <itunes:summary>Part 5 of The Stormlight Archive 4: Rhythm of War (6 of 6)</itunes:summary>
+      <description>This is 1/1 from part of the file The Stormlight Archive [04] Rhythm Of War [06].mp3
+Using timecodes 0.0 to 29139.82862611073
+
+Written by Brandon Sanderson - Performed by Richard Rohan, Robbie Gay, Lily Beacon, Andy Clemence, Tracy Lynn Olivera,  Emlyn McFarland, Terence Aselford, Chris Davenport, Michael Glenn, Scott McCormick, Michael Getz, Zeke Alton. Ryan Carlo Dalusung, James Konicek, Karen Novack, Zoe Badovinac, Thomas Penny, Mort Shelby, Kay Eluvian,  Bradley Foster Smith, Brandon Burton, Nora Achrati, Duyen Washington, Rob McFadyen, Christopher Graybill, Dani Stoller, Colleen Delany, Emily Beresford, Yasmin Tuazon, Drew Kopas, Chris Genebach, Nanette Savard, Tanja Milojevic, Kimberly Gilbert, Anthony Palmini,  Joe Mallon, Rose Elizabeth Supan, Jonathon Church, Michael John Casey, Steve Wannall, Alejandro Ruiz, Marni Penning, Eric Messner, Ken Jackson, Deidra Starnes, Melody Muze, Barbara Pinolini and Matthew Pauli.
+
+size (MB): 511.962339
+Length: 8:05:39.870000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/The Stormlight Archive [04] Rhythm Of War [06].mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/The Stormlight Archive [04] Rhythm Of War [06].mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>8:05:39.870000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/RhythmofWar6</guid>
+    </item>
+    
+  <item>
+      <title>Rhythm of War 4 (5-1)</title>
+      <itunes:summary>Part 4 of The Stormlight Archive 4: Rhythm of War (5 of 6)</itunes:summary>
+      <description>This is 1/1 from part of the file The Stormlight Archive [04] Rhythm Of War [05].mp3
+Using timecodes 0.0 to 28756.04891709794
+
+Written by Brandon Sanderson - Performed by: Richard Rohan as The Narrator and Taravangian, Tracy Lynn Olivera as Venli, Robbie Gay as Kaladin Stormblessed, Lily Beacon as Navani Kholin, Emlyn McFarland as Shallan, Veil, Radiant and Formless, Michael Getz as Adolin Kholin, Dawn Ursula as Raboniel and Essu, Scott McCormick as Rlain and Nale, Karen Novack as Eshonai, Zeke Alton as Lezian and Ulim, James Konicek as Stormfather and Kelek, Andy Clemence as Dalinar Kholin, Chris Davenport as Wit and Vstim, Chris Genebach as Pattern, Emily Beresford as Design and Blended, Kay Eluvian as The Sibling, Bradley Foster Smith as Szeth and Vaiu, Joe Mallon as Mraize, Thomas Penny as Lirin,  Kimberly Gilbert as Lift, Chiri-Chiri and Shalash, Yasmin Tuazon as Rysn, Amuna and Dianil, Mort Shelby as Thude, Roshone and Sigzil, Nora Achrati as Syl, Duyen Washington as Leshwi and Anthony Palmini as Dabbid. With Chris Graybill, Dani Stoller, Melody Muze, Alejandro Ruiz, Keith Richards, Terence Aselford, Holly Adams, Nanette Savar
+
+size (MB): 497.155389
+Length: 7:59:16.080000
+Author: GraphicAudio</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/The Stormlight Archive [04] Rhythm Of War [05].mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/The Stormlight Archive [04] Rhythm Of War [05].mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>7:59:16.080000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/RhythmofWar5</guid>
+    </item>
+    
+  <item>
+      <title>Rhythm of War 3 (4-1)</title>
+      <itunes:summary>Part 3 of The Stormlight Archive 4: Rhythm of War (4 of 6)</itunes:summary>
+      <description>This is 1/1 from part of the file The Stormlight Archive [04] Rhythm Of War [04].mp3
+Using timecodes 0.0 to 27607.321909969727
+
+Written by Brandon Sanderson - Performed by Richard Rohan as The Narrator and Taravangian,Robbie Gay as Kaladin Stormblessed, Tracy Lynn Olivera as Venli, Lily Beacon as Navani Kholin, Andy Clemence as Dalinar Kholin, Nora Achrati as Syl, Dawn Ursula as Raboniel, Zoe Badovinac as Jasnah Kholin, Karen Novack as Eshonai, Nanette Savard as Jaxlim, Alejandero Ruiz as Renarin Kholin  and The Mink, Scott McCormick as Rlain and Nale, Kay Eluvian as The Sibling, Chris Davenport as Wit, Chris Genebach as Kmakl and Dul, Zeke Alton As Lezian the Pursuer and Mort Shelby as Falilar, Sigzil, Ruthar and Thude. With Debi Tinsley, Terence Aselford, Kimberly Gilbert, KenYatta Rogers, James Lewis, Jonathan Lee Taylor, James Konicek, Duyen Washington, Bradley Foster Smith, Torian Brackett, Jefferson A. Russell, Holly Adams, Brandon Burton, Matthew Bassett, Joe Mallon, Lydia Kraniotis, Evan Casey, Yasmin Tuazon, Michael John Casey, Colleen Delany, Rose Elizabeth Supan, Ryan Carlo Dalusung, Elizabeth Jernigan, Ken Jackson, Rob Mc
+
+size (MB): 490.358452
+Length: 7:40:07.350000
+Author: Graphic Audio, LLC</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/The Stormlight Archive [04] Rhythm Of War [04].mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/The Stormlight Archive [04] Rhythm Of War [04].mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <itunes:author>Graphic Audio, LLC</itunes:author>
+      <itunes:duration>7:40:07.350000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/RhythmofWar4</guid>
+    </item>
+    
+  <item>
+      <title>Rhythm of War 2 (3-1)</title>
+      <itunes:summary>Part 2 of The Stormlight Archive [04] Rhythm Of War [03]</itunes:summary>
+      <description>This is 1/1 from part of the file The Stormlight Archive [04] Rhythm Of War [03].mp3
+Using timecodes 0.0 to 24001.86175568792
+
+Details
+~~~~~
+By : Brandon Sanderson
+
+Release Date : April 30, 2021
+
+Approximate Running Time : 7 Hours
+
+Content Rating : Ages 13+
+
+After forming a coalition of human resistance against the enemy invasion, Dalinar Kholin and his Knights Radiant have spent a year fighting a protracted, brutal war. Neither side has gained an advantage, and the threat of a betrayal by Dalinars crafty ally Taravangian looms over every strategic move.
+
+Now, as new technological discoveries by Navani Kholins scholars begin to change the face of the war, the enemy prepares a bold and dangerous operation. The arms race that follows will challenge the very core of the Radiant ideals, and potentially reveal the secrets of the ancient tower that was once the heart of their strength.
+
+At the same time that Kaladin Stormblessed must come to grips with his changing role within the Knights Radiant, his Windrunners face their own problem: As more and more deadly enemy Fused awaken to wage war, no more honorspren are willing 
+
+size (MB): 373.89882
+Length: 6:40:01.900000
+Author: GraphicAudio [Brandon Sanderson]</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/The Stormlight Archive [04] Rhythm Of War [03].mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/The Stormlight Archive [04] Rhythm Of War [03].mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio [Brandon Sanderson]</itunes:author>
+      <itunes:duration>6:40:01.900000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/RhythmofWar3</guid>
+    </item>
+    
+  <item>
+      <title>Rhythm of War 1 (2-1)</title>
+      <itunes:summary>Part 1 of The Stormlight Archive 4 - Rhythm of War (2 of 6)</itunes:summary>
+      <description>This is 1/1 from part of the file The Stormlight Archive [04] Rhythm Of War [02].mp3
+Using timecodes 0.0 to 24467.579587930864
+
+Written by Brandon Sanderson - Performed by Richard Rohan, Emlyn McFarland, Lily Beacon, Robbie Gay, Michael Getz, Andy Clemence, Nora Achrati, David Jourdan, Zoe Badovinac, Mort Shelby, Jacob Yeh,  Alejandro Ruiz, Jessica Lauren Ball, Bradley Foster Smith, Chris Genebach, Torian Brackett, Holly Adams, Terence Aselford, Andrew Quilpa, Megan Poppy, Natalie Van Sistine, Michael John Casey, Marni Penning, Ken Jackson, James Lewis, Scott McCormick, Thomas Penny, Kimberly Gilbert, Dani Stoller, Christopher Walker, Nanette Savard, Rana Kay, Michaerl Glenn, Elizabeth Jernigan, James Konicek, Tony Nam, Rose Elizabeth Supan, Lydia Kraniotis, Chris Davenport, Sasha Olinick, Tanja Milojevic, Nazia Chaudhry, Jonathon Church, Matthew Pauli and Nick DePinto.
+
+size (MB): 384.108267
+Length: 6:47:47.610000
+Author: GraphicAudio</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/The Stormlight Archive [04] Rhythm Of War [02].mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/The Stormlight Archive [04] Rhythm Of War [02].mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>6:47:47.610000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/RhythmofWar2</guid>
+    </item>
+    
+  <item>
+      <title>Rhythm of War 0 (1-1)</title>
+      <itunes:summary>Part 0 of The Stormlight Archive [04] Rhythm Of War [01]</itunes:summary>
+      <description>This is 1/1 from part of the file The Stormlight Archive [04] Rhythm Of War [01].mp3
+Using timecodes 0.0 to 25677.41990773321
+
+Summary
+~~~~~~
+By : Brandon Sanderson
+
+Release Date : December 21, 2020
+
+Approximate Running Time : 7 Hours
+
+Content Rating : Ages 13+
+
+After forming a coalition of human resistance against the enemy invasion, Dalinar Kholin and his Knights Radiant have spent a year fighting a protracted, brutal war. Neither side has gained an advantage, and the threat of a betrayal by Dalinars crafty ally Taravangian looms over every strategic move.
+
+Now, as new technological discoveries by Navani Kholins scholars begin to change the face of the war, the enemy prepares a bold and dangerous operation. The arms race that follows will challenge the very core of the Radiant ideals, and potentially reveal the secrets of the ancient tower that was once the heart of their strength.
+
+At the same time that Kaladin Stormblessed must come to grips with his changing role within the Knights Radiant, his Windrunners face their own problem: As more and more deadly enemy Fused awaken to wage war, no more honorspren are willing to bond with humans to increase the number of Radiants. Adolin and Shallan must lead the coalitions envoy to the honorspren stronghold of Lasting Integrity and either convince the spren to join the cause against the evil god Odium, or personally face the storm of failure.
+
+ 2020 by Brandon Sanderson. Recorded with the permission of the Author and Dragonsteel Entertainment, LLC Production. Published by arrangement with Macmillan publishing group LLC d/b/a Tor Books. All Rights Reserved. ? 2020 Graphic Audio, LLC. All rights reserved.
+
+Production Crew &amp; Cast
+~~~~~~~~~~~~~~~~
+Director : Rose Elizabeth Supan
+
+Narrator : Richard Rohan
+
+Starring :  Robbie Gay as Kaladin Stormblessed, Emlyn McFarland as Shallan Davar, Lily Beacon as Navani Kholin, Tracy Olivera as Venli, Nora Achrati as Syl, Duyen Washington as Leshwi, Michael Getz as Adolin Kholin, Thomas Penny as Lirin, Joe Mallon as Mraize, Andy Clemence as Dalinar Kholin, Dani Stoller as Ialai Sadeas and Hesina, Dawn Ursala as Abiajan and Raboniel, Ken Jackson as Rock, Terence Aselford as Gavilar Kholin and Teft, Ryan Carlo Dalusung as Moash, Zeke Alton as Lezian the Pursuer and Chris Genebach as Pattern and Kmakl. With Mort Shelby, Rose Elizabeth Supan, James J. Johnson, Alejandro Ruiz, Deidra Starnes, Lise Bruneau, Frank Britton, Elizabeth Jernigan, Scott McCormick, Jefferson Russell, Colleen Delany, Kimberly Gilbert, Bradley Foster Smith, James Konicek, Jessica Lauren Ball, Darius Johnson, Delores King Williams, Matthew Bassett, Stephon Walker, Caroline Wolfson, Cameron McNary, Christopher Walker, Sasha Olinick, Yasmin Tuazon, Jacob Yeh, Matthew McGee, Richard Rohan, Michael John Casey and Katy Carkuff
+
+Book Adapted For GraphicAudio By : Rose Elizabeth Supan
+
+Dialogue Editors : Dave Fernandez &amp; David Zitney
+
+Sound Designers : Dave Fernandez &amp; David Zitney
+
+Original Theme Music : Johann Dettweiler
+
+Additional Original Music : Johann Dettweiler
+
+Cover Illustrator : Cover Art  2020 Michael Whelan, MichaelWhelan.com
+
+Producers : Richard Rohan, Duane Beeman &amp; Matt Webb
+
+Executive Producer : Anji Cornette
+
+size (MB): 413.738357
+Length: 7:07:35.320000
+Author: Graphic Audio [Brandon Sanderson]</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/The Stormlight Archive [04] Rhythm Of War [01].mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/The Stormlight Archive [04] Rhythm Of War [01].mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <itunes:author>Graphic Audio [Brandon Sanderson]</itunes:author>
+      <itunes:duration>7:07:35.320000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/RhythmofWar1</guid>
+    </item>
+    
+  </channel>
+</rss>
