@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>(THE) The Final Empire</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+    
+    <item>
+      <title>The Final Empire 37 (19-2)</title>
+      <itunes:summary>Part 37 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (3 of 3)/MISTBORN0103P07.mp3
+Using timecodes 2128.882 to 4257.764
+
+None
+
+size (MB): 37.263036
+Length: 0:35:28.920000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/mxgOKQ9TwXuIzpDu3rB3CJDurt70rE8C</link>
+      <enclosure url="https://audio.jukehost.co.uk/mxgOKQ9TwXuIzpDu3rB3CJDurt70rE8C" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:35:28.920000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire38</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 36 (19-1)</title>
+      <itunes:summary>Part 36 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (3 of 3)/MISTBORN0103P07.mp3
+Using timecodes 0.0 to 2128.882
+
+None
+
+size (MB): 37.492231
+Length: 0:35:28.920000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/iauK128NCQJ7iXH5vgzdQSNnlbdAAmnm</link>
+      <enclosure url="https://audio.jukehost.co.uk/iauK128NCQJ7iXH5vgzdQSNnlbdAAmnm" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:35:28.920000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire37</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 35 (18-2)</title>
+      <itunes:summary>Part 35 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (3 of 3)/MISTBORN0103P06.mp3
+Using timecodes 1792.906 to 3585.812
+
+None
+
+size (MB): 31.59126
+Length: 0:29:52.940000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/AKR4OWAnfriFwvPQRoNQHTo0sdt06RmA</link>
+      <enclosure url="https://audio.jukehost.co.uk/AKR4OWAnfriFwvPQRoNQHTo0sdt06RmA" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:29:52.940000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire36</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 34 (18-1)</title>
+      <itunes:summary>Part 34 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (3 of 3)/MISTBORN0103P06.mp3
+Using timecodes 0.0 to 1792.906
+
+None
+
+size (MB): 31.880071
+Length: 0:29:52.940000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/nWyRD33xlZLtd2HYS4nO5U0BO9Lh2mG4</link>
+      <enclosure url="https://audio.jukehost.co.uk/nWyRD33xlZLtd2HYS4nO5U0BO9Lh2mG4" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:29:52.940000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire35</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 33 (17-2)</title>
+      <itunes:summary>Part 33 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (3 of 3)/MISTBORN0103P05.mp3
+Using timecodes 1646.71 to 3293.42
+
+None
+
+size (MB): 29.098786
+Length: 0:27:26.760000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/FNXGCeaxH2yhMvEVe8XMp5t90qHI0Ac8</link>
+      <enclosure url="https://audio.jukehost.co.uk/FNXGCeaxH2yhMvEVe8XMp5t90qHI0Ac8" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:27:26.760000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire34</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 32 (17-1)</title>
+      <itunes:summary>Part 32 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (3 of 3)/MISTBORN0103P05.mp3
+Using timecodes 0.0 to 1646.71
+
+None
+
+size (MB): 29.161446
+Length: 0:27:26.730000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/Cuhs96b2ytFnNk58ohqshZUfLylolHIm</link>
+      <enclosure url="https://audio.jukehost.co.uk/Cuhs96b2ytFnNk58ohqshZUfLylolHIm" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:27:26.730000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire33</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 31 (16-2)</title>
+      <itunes:summary>Part 31 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (3 of 3)/MISTBORN0103P04.mp3
+Using timecodes 1881.286 to 3762.572
+
+None
+
+size (MB): 33.000012
+Length: 0:31:21.330000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/znyDqzUlE4LOVIzY2gKyZrzEtZ5qaj0E</link>
+      <enclosure url="https://audio.jukehost.co.uk/znyDqzUlE4LOVIzY2gKyZrzEtZ5qaj0E" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:31:21.330000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire32</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 30 (16-1)</title>
+      <itunes:summary>Part 30 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (3 of 3)/MISTBORN0103P04.mp3
+Using timecodes 0.0 to 1881.286
+
+None
+
+size (MB): 32.856943
+Length: 0:31:21.310000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/lAZEyand7Ukc3byxdOwDenIsgjZp2ANu</link>
+      <enclosure url="https://audio.jukehost.co.uk/lAZEyand7Ukc3byxdOwDenIsgjZp2ANu" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:31:21.310000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire31</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 29 (15-2)</title>
+      <itunes:summary>Part 29 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (3 of 3)/MISTBORN0103P03.mp3
+Using timecodes 1846.15 to 3692.3
+
+None
+
+size (MB): 32.050497
+Length: 0:30:46.200000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/Sx9SjNCCH33ggiRg1fH2KZwCepSP9W07</link>
+      <enclosure url="https://audio.jukehost.co.uk/Sx9SjNCCH33ggiRg1fH2KZwCepSP9W07" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:30:46.200000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire30</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 28 (15-1)</title>
+      <itunes:summary>Part 28 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (3 of 3)/MISTBORN0103P03.mp3
+Using timecodes 0.0 to 1846.15
+
+None
+
+size (MB): 33.51315
+Length: 0:30:46.170000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/9JCPCv9kJQRr8Cdwv5QEOdyMyp0r0oco</link>
+      <enclosure url="https://audio.jukehost.co.uk/9JCPCv9kJQRr8Cdwv5QEOdyMyp0r0oco" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:30:46.170000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire29</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 27 (14-2)</title>
+      <itunes:summary>Part 27 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (3 of 3)/MISTBORN0103P02.mp3
+Using timecodes 1860.046 to 3720.092
+
+None
+
+size (MB): 29.439636
+Length: 0:31:00.090000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/7nCpmyDP6Ak4Fk0xC7Bd6fwjEObMrxps</link>
+      <enclosure url="https://audio.jukehost.co.uk/7nCpmyDP6Ak4Fk0xC7Bd6fwjEObMrxps" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:31:00.090000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire28</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 26 (14-1)</title>
+      <itunes:summary>Part 26 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (3 of 3)/MISTBORN0103P02.mp3
+Using timecodes 0.0 to 1860.046
+
+None
+
+size (MB): 32.038783
+Length: 0:31:00.070000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/3ehwvEZoJ0kQHFFq9WCJdrAkR0bRbnnu</link>
+      <enclosure url="https://audio.jukehost.co.uk/3ehwvEZoJ0kQHFFq9WCJdrAkR0bRbnnu" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:31:00.070000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire27</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 25 (13-2)</title>
+      <itunes:summary>Part 25 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (3 of 3)/MISTBORN0103P01.mp3
+Using timecodes 1585.378 to 3170.756
+
+None
+
+size (MB): 28.786212
+Length: 0:26:25.410000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/594ZyCXv8EY0bsqXAcTCSIqlm23bb4YW</link>
+      <enclosure url="https://audio.jukehost.co.uk/594ZyCXv8EY0bsqXAcTCSIqlm23bb4YW" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:26:25.410000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire26</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 24 (13-1)</title>
+      <itunes:summary>Part 24 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (3 of 3)/MISTBORN0103P01.mp3
+Using timecodes 0.0 to 1585.378
+
+None
+
+size (MB): 28.853887
+Length: 0:26:25.410000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/L3krvhEGgK0IExFivMD2kqLClwQ9dYXN</link>
+      <enclosure url="https://audio.jukehost.co.uk/L3krvhEGgK0IExFivMD2kqLClwQ9dYXN" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:26:25.410000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire25</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 23 (12-2)</title>
+      <itunes:summary>Part 23 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (2 of 3)/MISTBORN0102P06.mp3
+Using timecodes 1633.57 to 3267.14
+
+None
+
+size (MB): 30.677362
+Length: 0:27:13.600000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/RGzrhIH8WLAt9MFMGspJKOoY2K0dR7fY</link>
+      <enclosure url="https://audio.jukehost.co.uk/RGzrhIH8WLAt9MFMGspJKOoY2K0dR7fY" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:27:13.600000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire24</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 22 (12-1)</title>
+      <itunes:summary>Part 22 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (2 of 3)/MISTBORN0102P06.mp3
+Using timecodes 0.0 to 1633.57
+
+None
+
+size (MB): 28.777158
+Length: 0:27:13.600000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/93mazMP71UTybQYuMXWkD3QilVrINkA5</link>
+      <enclosure url="https://audio.jukehost.co.uk/93mazMP71UTybQYuMXWkD3QilVrINkA5" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:27:13.600000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire23</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 21 (11-2)</title>
+      <itunes:summary>Part 21 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (2 of 3)/MISTBORN0102P05.mp3
+Using timecodes 1815.31 to 3630.62
+
+None
+
+size (MB): 34.18957
+Length: 0:30:15.360000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/UtHKmhDD0JCq3twvnl9jPtFKDAEDR73w</link>
+      <enclosure url="https://audio.jukehost.co.uk/UtHKmhDD0JCq3twvnl9jPtFKDAEDR73w" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:30:15.360000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire22</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 20 (11-1)</title>
+      <itunes:summary>Part 20 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (2 of 3)/MISTBORN0102P05.mp3
+Using timecodes 0.0 to 1815.31
+
+None
+
+size (MB): 33.458214
+Length: 0:30:15.330000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/qbAFBtJEHAkMKVEtHB0OJg772K4CGthO</link>
+      <enclosure url="https://audio.jukehost.co.uk/qbAFBtJEHAkMKVEtHB0OJg772K4CGthO" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:30:15.330000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire21</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 19 (10-2)</title>
+      <itunes:summary>Part 19 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (2 of 3)/MISTBORN0102P04.mp3
+Using timecodes 1834.054 to 3668.108
+
+None
+
+size (MB): 34.830588
+Length: 0:30:34.100000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/BCwFdJqMjYa7fKyltXCXPBMTphcvtKaJ</link>
+      <enclosure url="https://audio.jukehost.co.uk/BCwFdJqMjYa7fKyltXCXPBMTphcvtKaJ" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:30:34.100000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire20</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 18 (10-1)</title>
+      <itunes:summary>Part 18 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (2 of 3)/MISTBORN0102P04.mp3
+Using timecodes 0.0 to 1834.054
+
+None
+
+size (MB): 34.695151
+Length: 0:30:34.080000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/GD8rpFOIsAR3aUSYp67aZXz4O8coly1T</link>
+      <enclosure url="https://audio.jukehost.co.uk/GD8rpFOIsAR3aUSYp67aZXz4O8coly1T" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:30:34.080000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire19</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 17 (9-2)</title>
+      <itunes:summary>Part 17 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (2 of 3)/MISTBORN0102P03.mp3
+Using timecodes 2111.746 to 4223.492
+
+None
+
+size (MB): 38.292851
+Length: 0:35:11.780000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/1YBuQGez0jntjd7FMMbUwFwx55PbU6hp</link>
+      <enclosure url="https://audio.jukehost.co.uk/1YBuQGez0jntjd7FMMbUwFwx55PbU6hp" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:35:11.780000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire18</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 16 (9-1)</title>
+      <itunes:summary>Part 16 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (2 of 3)/MISTBORN0102P03.mp3
+Using timecodes 0.0 to 2111.746
+
+None
+
+size (MB): 38.514798
+Length: 0:35:11.780000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/w8AaKJJGNbKzWdhfvEXhXEcsYoXrD815</link>
+      <enclosure url="https://audio.jukehost.co.uk/w8AaKJJGNbKzWdhfvEXhXEcsYoXrD815" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:35:11.780000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire17</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 15 (8-2)</title>
+      <itunes:summary>Part 15 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (2 of 3)/MISTBORN0102P02.mp3
+Using timecodes 1862.314 to 3724.628
+
+None
+
+size (MB): 33.899963
+Length: 0:31:02.350000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/pJqUOGkVjNFyVlpiRD6QeakKfgvt7KB0</link>
+      <enclosure url="https://audio.jukehost.co.uk/pJqUOGkVjNFyVlpiRD6QeakKfgvt7KB0" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:31:02.350000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire16</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 14 (8-1)</title>
+      <itunes:summary>Part 14 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (2 of 3)/MISTBORN0102P02.mp3
+Using timecodes 0.0 to 1862.314
+
+None
+
+size (MB): 35.030886
+Length: 0:31:02.350000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/J2L7vBllBXHuatin3LBRfCeyXIhCfybr</link>
+      <enclosure url="https://audio.jukehost.co.uk/J2L7vBllBXHuatin3LBRfCeyXIhCfybr" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:31:02.350000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire15</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 13 (7-2)</title>
+      <itunes:summary>Part 13 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (2 of 3)/MISTBORN0102P01.mp3
+Using timecodes 1820.386 to 3640.772
+
+None
+
+size (MB): 31.933763
+Length: 0:30:20.420000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/1e6DPRLn5YK0mo0bL54FDDqJUmHzNMra</link>
+      <enclosure url="https://audio.jukehost.co.uk/1e6DPRLn5YK0mo0bL54FDDqJUmHzNMra" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:30:20.420000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire14</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 12 (7-1)</title>
+      <itunes:summary>Part 12 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (2 of 3)/MISTBORN0102P01.mp3
+Using timecodes 0.0 to 1820.386
+
+None
+
+size (MB): 33.113142
+Length: 0:30:20.420000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/gSn2JtF5cxJ2IRx3ZIId8007093eCDCx</link>
+      <enclosure url="https://audio.jukehost.co.uk/gSn2JtF5cxJ2IRx3ZIId8007093eCDCx" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:30:20.420000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire13</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 11 (6-2)</title>
+      <itunes:summary>Part 11 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (1 of 3)/MISTBORN0101P06.mp3
+Using timecodes 1902.034 to 3804.068
+
+None
+
+size (MB): 35.247923
+Length: 0:31:42.070000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/AjQhxP6tU7YATDRU1F7eTOrAfcIy6daR</link>
+      <enclosure url="https://audio.jukehost.co.uk/AjQhxP6tU7YATDRU1F7eTOrAfcIy6daR" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:31:42.070000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire12</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 10 (6-1)</title>
+      <itunes:summary>Part 10 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (1 of 3)/MISTBORN0101P06.mp3
+Using timecodes 0.0 to 1902.034
+
+None
+
+size (MB): 35.63715
+Length: 0:31:42.070000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/cm2JUsOigm9vTFbYIma2o7NBL44GAPaI</link>
+      <enclosure url="https://audio.jukehost.co.uk/cm2JUsOigm9vTFbYIma2o7NBL44GAPaI" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:31:42.070000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire11</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 09 (5-2)</title>
+      <itunes:summary>Part 09 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (1 of 3)/MISTBORN0101P05.mp3
+Using timecodes 2038.45 to 4076.9
+
+None
+
+size (MB): 38.570432
+Length: 0:33:58.480000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/P2LhYgwQpBl5AJukEQ5omQocj6bPoggR</link>
+      <enclosure url="https://audio.jukehost.co.uk/P2LhYgwQpBl5AJukEQ5omQocj6bPoggR" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:33:58.480000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire10</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 08 (5-1)</title>
+      <itunes:summary>Part 08 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (1 of 3)/MISTBORN0101P05.mp3
+Using timecodes 0.0 to 2038.45
+
+None
+
+size (MB): 38.090501
+Length: 0:33:58.480000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/ItYwhvSD30g4YG4pFBNDgUGtey4ydmVN</link>
+      <enclosure url="https://audio.jukehost.co.uk/ItYwhvSD30g4YG4pFBNDgUGtey4ydmVN" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:33:58.480000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire9</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 07 (4-2)</title>
+      <itunes:summary>Part 07 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (1 of 3)/MISTBORN0101P04.mp3
+Using timecodes 1966.918 to 3933.836
+
+None
+
+size (MB): 35.761403
+Length: 0:32:46.960000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/6ArqeCJFkkUxSosftT1eHe0ibZCh0qfc</link>
+      <enclosure url="https://audio.jukehost.co.uk/6ArqeCJFkkUxSosftT1eHe0ibZCh0qfc" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:32:46.960000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire8</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 06 (4-1)</title>
+      <itunes:summary>Part 06 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (1 of 3)/MISTBORN0101P04.mp3
+Using timecodes 0.0 to 1966.918
+
+None
+
+size (MB): 38.761302
+Length: 0:32:46.940000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/0tdis5tVNRQoXl4JD3z7F4JHWHQxYkre</link>
+      <enclosure url="https://audio.jukehost.co.uk/0tdis5tVNRQoXl4JD3z7F4JHWHQxYkre" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:32:46.940000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire7</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 05 (3-2)</title>
+      <itunes:summary>Part 05 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (1 of 3)/MISTBORN0101P03.mp3
+Using timecodes 1794.946 to 3589.892
+
+None
+
+size (MB): 32.318651
+Length: 0:29:54.980000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/AHWTdJ9UqdAiY5yrPkTu8yBe4FL57fBM</link>
+      <enclosure url="https://audio.jukehost.co.uk/AHWTdJ9UqdAiY5yrPkTu8yBe4FL57fBM" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:29:54.980000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire6</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 04 (3-1)</title>
+      <itunes:summary>Part 04 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (1 of 3)/MISTBORN0101P03.mp3
+Using timecodes 0.0 to 1794.946
+
+None
+
+size (MB): 32.546478
+Length: 0:29:54.980000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/UfP5uC5gg91hcvEsGYPGFQkztmDydZQP</link>
+      <enclosure url="https://audio.jukehost.co.uk/UfP5uC5gg91hcvEsGYPGFQkztmDydZQP" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:29:54.980000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire5</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 03 (2-2)</title>
+      <itunes:summary>Part 03 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (1 of 3)/MISTBORN0101P02.mp3
+Using timecodes 1863.766 to 3727.532
+
+None
+
+size (MB): 34.303739
+Length: 0:31:03.810000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/izIQ1L3InAKt9E49jPAykJJId3RWHoba</link>
+      <enclosure url="https://audio.jukehost.co.uk/izIQ1L3InAKt9E49jPAykJJId3RWHoba" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:31:03.810000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire4</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 02 (2-1)</title>
+      <itunes:summary>Part 02 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (1 of 3)/MISTBORN0101P02.mp3
+Using timecodes 0.0 to 1863.766
+
+None
+
+size (MB): 34.932774
+Length: 0:31:03.790000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/WcqFATWXAogJYhzL2So1dCd5DEcoCCDR</link>
+      <enclosure url="https://audio.jukehost.co.uk/WcqFATWXAogJYhzL2So1dCd5DEcoCCDR" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:31:03.790000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire3</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 01 (1-2)</title>
+      <itunes:summary>Part 01 of None</itunes:summary>
+      <description>This is 2/2 from part of the file Mistborn 1 - The Final Empire (1 of 3)/MISTBORN0101P01.mp3
+Using timecodes 2173.618 to 4347.236
+
+None
+
+size (MB): 40.831355
+Length: 0:36:13.650000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/YwjyuSCDlteW6HwbALQSesLJH44KZZed</link>
+      <enclosure url="https://audio.jukehost.co.uk/YwjyuSCDlteW6HwbALQSesLJH44KZZed" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:36:13.650000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire2</guid>
+    </item>
+    
+  <item>
+      <title>The Final Empire 00 (1-1)</title>
+      <itunes:summary>Part 00 of None</itunes:summary>
+      <description>This is 1/2 from part of the file Mistborn 1 - The Final Empire (1 of 3)/MISTBORN0101P01.mp3
+Using timecodes 0.0 to 2173.618
+
+None
+
+size (MB): 40.750086
+Length: 0:36:13.650000
+Author: None</description>
+      <link>https://audio.jukehost.co.uk/RBHcymCks6656W0cq4MkKymShfKE36BB</link>
+      <enclosure url="https://audio.jukehost.co.uk/RBHcymCks6656W0cq4MkKymShfKE36BB" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author />
+      <itunes:duration>0:36:13.650000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheFinalEmpire1</guid>
+    </item>
+    
+  </channel>
+</rss>
