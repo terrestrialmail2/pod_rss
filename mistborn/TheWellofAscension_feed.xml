@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>(Mistborn) The Well of Ascension</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+    
+    <item>
+      <title>The Well of Ascension 2 (3-1)</title>
+      <itunes:summary>Part 2 of Brandon Sanderson - Mistborn 02 - The Well of Ascension  pt 3</itunes:summary>
+      <description>This is 1/1 from part of the file Brandon Sanderson - Mistborn 02 - The Well of Ascension  pt 3.mp3
+Using timecodes 0.0 to 26753.64937455701
+
+Dallis24 is totally awesome
+
+size (MB): 446.846421
+Length: 7:24:26.500000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheWellofAscension/the_well_of_ascension_2_(3-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheWellofAscension/the_well_of_ascension_2_(3-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>7:24:26.500000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheWellofAscension3</guid>
+    </item>
+    
+  <item>
+      <title>The Well of Ascension 1 (2-1)</title>
+      <itunes:summary>Part 1 of Brandon Sanderson - Mistborn 02 - The Well of Ascension  pt 2</itunes:summary>
+      <description>This is 1/1 from part of the file Brandon Sanderson - Mistborn 02 - The Well of Ascension  pt 2.mp3
+Using timecodes 0.0 to 25511.914257362823
+
+Dallis24 is totallyawesome! 
+
+size (MB): 421.855018
+Length: 7:03:12.030000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheWellofAscension/the_well_of_ascension_1_(2-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheWellofAscension/the_well_of_ascension_1_(2-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>7:03:12.030000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheWellofAscension2</guid>
+    </item>
+    
+  <item>
+      <title>The Well of Ascension 0 (1-1)</title>
+      <itunes:summary>Part 0 of Brandon Sanderson - Mistborn 02 - The Well of Ascension  pt 1</itunes:summary>
+      <description>This is 1/1 from part of the file Brandon Sanderson - Mistborn 02 - The Well of Ascension  pt 1.mp3
+Using timecodes 0.0 to 28124.947333740685
+
+Dallis24 is totally awesome!
+
+size (MB): 488.87127
+Length: 7:47:07.500000
+Author: Mistborn</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheWellofAscension/the_well_of_ascension_0_(1-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheWellofAscension/the_well_of_ascension_0_(1-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author>Mistborn</itunes:author>
+      <itunes:duration>7:47:07.500000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheWellofAscension1</guid>
+    </item>
+    
+  </channel>
+</rss>
