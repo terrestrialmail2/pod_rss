@@ -1,1 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>(Cosmere) Arcanum_Unbounded</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+    
+    <item>
+      <title>Arcanum_Unbounded 15 (16-1)</title>
+      <itunes:summary>Part 15 of Arcanum Unbounded; The Cosmere Collection</itunes:summary>
+      <description>This is 1/1 from part of the file 16.Edgedancer.mp3
+Using timecodes 0.0 to 18148.43804871788
 
+Michael Kramer , Kate Reading
+
+size (MB): 107.021948
+Length: 5:02:28.490000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_15_(16-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_15_(16-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>5:02:28.490000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ArcanumUnbounded16</guid>
+    </item>
+    
+  <item>
+      <title>Arcanum_Unbounded 14 (15-1)</title>
+      <itunes:summary>Part 14 of Arcanum Unbounded; The Cosmere Collection</itunes:summary>
+      <description>This is 1/1 from part of the file 15.The Rosharan System.mp3
+Using timecodes 0.0 to 45.66204081632653
+
+Michael Kramer , Kate Reading
+
+size (MB): 0.345487
+Length: 0:00:45.710000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_14_(15-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_14_(15-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:00:45.710000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ArcanumUnbounded15</guid>
+    </item>
+    
+  <item>
+      <title>Arcanum_Unbounded 13 (14-1)</title>
+      <itunes:summary>Part 13 of Arcanum Unbounded; The Cosmere Collection</itunes:summary>
+      <description>This is 1/1 from part of the file 14.Sixth of the Dusk.mp3
+Using timecodes 0.0 to 23.771428571428572
+
+Michael Kramer , Kate Reading
+
+size (MB): 0.175946
+Length: 0:00:23.820000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_13_(14-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_13_(14-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:00:23.820000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ArcanumUnbounded14</guid>
+    </item>
+    
+  <item>
+      <title>Arcanum_Unbounded 12 (13-1)</title>
+      <itunes:summary>Part 12 of Arcanum Unbounded; The Cosmere Collection</itunes:summary>
+      <description>This is 1/1 from part of the file 13.The Drominad System.mp3
+Using timecodes 0.0 to 148.38102404528505
+
+Michael Kramer , Kate Reading
+
+size (MB): 1.097493
+Length: 0:02:28.450000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_12_(13-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_12_(13-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:02:28.450000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ArcanumUnbounded13</guid>
+    </item>
+    
+  <item>
+      <title>Arcanum_Unbounded 11 (12-1)</title>
+      <itunes:summary>Part 11 of Arcanum Unbounded; The Cosmere Collection</itunes:summary>
+      <description>This is 1/1 from part of the file 12.Shadows for Silence in the Forest of Hell.mp3
+Using timecodes 0.0 to 35.056326530612246
+
+Michael Kramer , Kate Reading
+
+size (MB): 0.220114
+Length: 0:00:35.100000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_11_(12-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_11_(12-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:00:35.100000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ArcanumUnbounded12</guid>
+    </item>
+    
+  <item>
+      <title>Arcanum_Unbounded 10 (11-1)</title>
+      <itunes:summary>Part 10 of Arcanum Unbounded; The Cosmere Collection</itunes:summary>
+      <description>This is 1/1 from part of the file 11.The Threnodite System.mp3
+Using timecodes 0.0 to 206.2541059293012
+
+Michael Kramer , Kate Reading
+
+size (MB): 1.47993
+Length: 0:03:26.310000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_10_(11-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_10_(11-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:03:26.310000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ArcanumUnbounded11</guid>
+    </item>
+    
+  <item>
+      <title>Arcanum_Unbounded 09 (10-1)</title>
+      <itunes:summary>Part 09 of Arcanum Unbounded; The Cosmere Collection</itunes:summary>
+      <description>This is 1/1 from part of the file 10.White Sand.mp3
+Using timecodes 0.0 to 3310.6944355204528
+
+Michael Kramer , Kate Reading
+
+size (MB): 22.856918
+Length: 0:55:10.750000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_09_(10-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_09_(10-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:55:10.750000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ArcanumUnbounded10</guid>
+    </item>
+    
+  <item>
+      <title>Arcanum_Unbounded 08 (9-1)</title>
+      <itunes:summary>Part 08 of Arcanum Unbounded; The Cosmere Collection</itunes:summary>
+      <description>This is 1/1 from part of the file 09.The Taldian System.mp3
+Using timecodes 0.0 to 7.836734693877551
+
+Michael Kramer , Kate Reading
+
+size (MB): 0.063797
+Length: 0:00:07.880000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_08_(9-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_08_(9-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:00:07.880000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ArcanumUnbounded9</guid>
+    </item>
+    
+  <item>
+      <title>Arcanum_Unbounded 07 (8-1)</title>
+      <itunes:summary>Part 07 of Arcanum Unbounded; The Cosmere Collection</itunes:summary>
+      <description>This is 1/1 from part of the file 08.Mistborn.Secret History.mp3
+Using timecodes 0.0 to 19235.21068745939
+
+Michael Kramer , Kate Reading
+
+size (MB): 125.488542
+Length: 5:20:35.260000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_07_(8-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_07_(8-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>5:20:35.260000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ArcanumUnbounded8</guid>
+    </item>
+    
+  <item>
+      <title>Arcanum_Unbounded 06 (7-1)</title>
+      <itunes:summary>Part 06 of Arcanum Unbounded; The Cosmere Collection</itunes:summary>
+      <description>This is 1/1 from part of the file 07.Allomancer Jack and the Pits of Eltania.mp3
+Using timecodes 0.0 to 32.862040816326534
+
+Michael Kramer , Kate Reading
+
+size (MB): 0.223525
+Length: 0:00:32.910000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_06_(7-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_06_(7-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:00:32.910000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ArcanumUnbounded7</guid>
+    </item>
+    
+  <item>
+      <title>Arcanum_Unbounded 05 (6-1)</title>
+      <itunes:summary>Part 05 of Arcanum Unbounded; The Cosmere Collection</itunes:summary>
+      <description>This is 1/1 from part of the file 06.The Eleventh Metal.mp3
+Using timecodes 0.0 to 9.247346938775511
+
+Michael Kramer , Kate Reading
+
+size (MB): 0.07961
+Length: 0:00:09.290000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_05_(6-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_05_(6-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:00:09.290000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ArcanumUnbounded6</guid>
+    </item>
+    
+  <item>
+      <title>Arcanum_Unbounded 04 (5-1)</title>
+      <itunes:summary>Part 04 of Arcanum Unbounded; The Cosmere Collection</itunes:summary>
+      <description>This is 1/1 from part of the file 05.The Scadrian System.mp3
+Using timecodes 0.0 to 8.097959183673469
+
+Michael Kramer , Kate Reading
+
+size (MB): 0.06969
+Length: 0:00:08.150000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_04_(5-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_04_(5-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:00:08.150000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ArcanumUnbounded5</guid>
+    </item>
+    
+  <item>
+      <title>Arcanum_Unbounded 03 (4-1)</title>
+      <itunes:summary>Part 03 of Arcanum Unbounded; The Cosmere Collection</itunes:summary>
+      <description>This is 1/1 from part of the file 04.The Hope of Elantris.mp3
+Using timecodes 0.0 to 2842.237009028841
+
+Michael Kramer , Kate Reading
+
+size (MB): 17.227729
+Length: 0:47:22.300000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_03_(4-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_03_(4-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:47:22.300000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ArcanumUnbounded4</guid>
+    </item>
+    
+  <item>
+      <title>Arcanum_Unbounded 02 (3-1)</title>
+      <itunes:summary>Part 02 of Arcanum Unbounded; The Cosmere Collection</itunes:summary>
+      <description>This is 1/1 from part of the file 03.The Emperor's Soul.mp3
+Using timecodes 0.0 to 2.56
+
+Michael Kramer , Kate Reading
+
+size (MB): 114.207775
+Length: 4:32:23.170000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_02_(3-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_02_(3-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>4:32:23.170000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ArcanumUnbounded3</guid>
+    </item>
+    
+  <item>
+      <title>Arcanum_Unbounded 01 (2-1)</title>
+      <itunes:summary>Part 01 of Arcanum Unbounded; The Cosmere Collection</itunes:summary>
+      <description>This is 1/1 from part of the file 02.The Selish System.mp3
+Using timecodes 0.0 to 4.231836734693878
+
+Michael Kramer , Kate Reading
+
+size (MB): 0.0484
+Length: 0:00:04.280000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_01_(2-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_01_(2-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:00:04.280000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ArcanumUnbounded2</guid>
+    </item>
+    
+  <item>
+      <title>Arcanum_Unbounded 00 (1-1)</title>
+      <itunes:summary>Part 00 of Arcanum Unbounded; The Cosmere Collection</itunes:summary>
+      <description>This is 1/1 from part of the file 01.Preface.mp3
+Using timecodes 0.0 to 22.517551020408163
+
+Michael Kramer , Kate Reading
+
+size (MB): 0.212939
+Length: 0:00:22.560000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_00_(1-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/arcanum_unbounded_00_(1-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:00:22.560000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ArcanumUnbounded1</guid>
+    </item>
+    
+  </channel>
+</rss>
