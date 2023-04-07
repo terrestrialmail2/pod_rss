@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>(TSA) Dawnshard</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+    
+    <item>
+      <title>Dawnshard 0 (1-1)</title>
+      <itunes:summary>Part 0 of Dawnshard (Unabridged)</itunes:summary>
+      <description>This is 1/1 from part of the file Dawnshard Stormlight Archive [B0B75MS6F3].m4b
+Using timecodes 0.0 to 25546.71
+
+When a ghost ship is discovered, its crew presumed dead after trying to reach the storm-shrouded island Akina, Navani Kholin must send an expedition to make sure the island hasn't fallen into enemy hands. Knights Radiant who fly too near find their Stormlight suddenly drained, so the voyage must be by sea. Shipowner Rysn Ftori lost the use of her legs but gained the companionship of Chiri-Chiri, a Stormlight-ingesting winged larkin, a species once thought extinct. Now Rysn's pet is ill, and any hope for Chiri-Chiris recovery can be found only at the ancestral home of the larkin.
+
+size (MB): 230.559364
+Length: 7:05:46.730000
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/the_stormlight_archive/Dawnshard/dawnshard_0_(1-1).mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/the_stormlight_archive/Dawnshard/dawnshard_0_(1-1).mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>7:05:46.730000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/Dawnshard1</guid>
+    </item>
+    
+  </channel>
+</rss>
