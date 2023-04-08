@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Warbreaker</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Brandon Sanderson</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+    
+    <item>
+      <title>Warbreaker 2 (3-1)</title>
+      <itunes:summary>Part 2 ofWarbreakerWarbreaker (3 of 3)</itunes:summary>
+      <description>This is 1/1 from part of the file Warbreaker - Part 3.mp3
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/Warbreaker/Warbreaker%20-%20Part%203.mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/Warbreaker/Warbreaker%20-%20Part%203.mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>6:12:36.5</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/Warbreaker3</guid>
+    </item>
+    
+  <item>
+      <title>Warbreaker 1 (2-1)</title>
+      <itunes:summary>Part 1 ofWarbreakerWarbreaker (2 of 3)</itunes:summary>
+      <description>This is 1/1 from part of the file Warbreaker - Part 2.mp3
+
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/Warbreaker/Warbreaker%20-%20Part%202.mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/Warbreaker/Warbreaker%20-%20Part%202.mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>5:07:19.5</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/Warbreaker2</guid>
+    </item>
+    
+  <item>
+      <title>Warbreaker 0 (1-1)</title>
+      <itunes:summary>Part 0 ofWarbreakerWarbreaker (1 of 3)</itunes:summary>
+      <description>This is 1/1 from part of the file Warbreaker - Part 1.mp3
+
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/Warbreaker/Warbreaker%20-%20Part%201.mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/Warbreaker/Warbreaker%20-%20Part%201.mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>6:05:01.5</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/Warbreaker1</guid>
+    </item>
+    
+  </channel>
+</rss>

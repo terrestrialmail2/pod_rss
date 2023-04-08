@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>(Mistborn) The Alloy of War</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Brandon Sanderson</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+    
+    <item>
+      <title>The Alloy of War 6 (7-1)</title>
+      <itunes:summary>Part 6 of Mistborn 4 - The Alloy of War (7 of 7)</itunes:summary>
+      <description>This is 1/1 from part of the file MISTBORN04P07.mp3
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheAlloyofLaw/MISTBORN04P07.mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheAlloyofLaw/MISTBORN04P07.mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>1:13:51.5</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheAlloyofWar7</guid>
+    </item>
+    <item>
+      <title>The Alloy of War 5 (6-1)</title>
+      <itunes:summary>Part 5 of Mistborn 4 - The Alloy of War (6 of 7)</itunes:summary>
+      <description>This is 1/1 from part of the file MISTBORN04P06.mp3
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheAlloyofLaw/MISTBORN04P06.mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheAlloyofLaw/MISTBORN04P06.mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>1:12:58.5</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheAlloyofWar6</guid>
+    </item>
+    
+    <item>
+      <title>The Alloy of War 4 (5-1)</title>
+      <itunes:summary>Part 4 of Mistborn 4 - The Alloy of War (5 of 7)</itunes:summary>
+      <description>This is 1/1 from part of the file MISTBORN04P05.mp3
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheAlloyofLaw/MISTBORN04P05.mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheAlloyofLaw/MISTBORN04P05.mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>1:06:31.5</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheAlloyofWar5</guid>
+    </item>
+    
+    <item>
+      <title>The Alloy of War 3 (4-1)</title>
+      <itunes:summary>Part 3 of Mistborn 4 - The Alloy of War (4 of 7)</itunes:summary>
+      <description>This is 1/1 from part of the file MISTBORN04P04.mp3
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheAlloyofLaw/MISTBORN04P04.mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheAlloyofLaw/MISTBORN04P04.mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>1:14:19.5</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheAlloyofWar4</guid>
+    </item>
+    
+    <item>
+      <title>The Alloy of War 2 (3-1)</title>
+      <itunes:summary>Part 2 of Mistborn 4 - The Alloy of War (3 of 7)</itunes:summary>
+      <description>This is 1/1 from part of the file MISTBORN0303.mp3
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheAlloyofLaw/MISTBORN04P03.mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheAlloyofLaw/MISTBORN04P03.mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>1:06:41.5</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheAlloyofWar3</guid>
+    </item>
+    
+  <item>
+      <title>The Alloy of War 1 (2-1)</title>
+      <itunes:summary>Part 1 of Mistborn 4 - The Alloy of War (2 of 7)</itunes:summary>
+      <description>This is 1/1 from part of the file MISTBORN04P01.mp3
+
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheAlloyofLaw/MISTBORN04P02.mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheAlloyofLaw/MISTBORN04P02.mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>1:03:58.5</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheAlloyofWar2</guid>
+    </item>
+    
+  <item>
+      <title>The Alloy of War 0 (1-1)</title>
+      <itunes:summary>Part 0 of Mistborn 4 - The Alloy of War (1 of 7)</itunes:summary>
+      <description>This is 1/1 from part of the file MISTBORN0301.mp3
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheAlloyofLaw/MISTBORN04P01.mp3</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/mistborn/TheAlloyofLaw/MISTBORN04P01.mp3" type="audio/mpeg" length="1024" />
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>1:10:47.5</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheAlloyofWar1</guid>
+    </item>
+    
+  </channel>
+</rss>
