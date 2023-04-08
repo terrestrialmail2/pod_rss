@@ -176,6 +176,27 @@ Author: Brandon Sanderson</description>
       <guid>http://example.com/ArcanumUnbounded9</guid>
     </item>
     
+    
+  <item>
+      <title>Mistborn- Collected Tales</title>
+      <itunes:summary>Mistborn- Collected Tales</itunes:summary>
+      <description>This is 1/1 from part of the file Mistborn- Collected Tales.m4a
+Using timecodes 0.0 to 19235.21068745939
+
+Michael Kramer , Kate Reading
+
+size (MB): 125.488542
+Length: 5:55:48
+Author: Brandon Sanderson</description>
+      <link>https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/Mistborn-%20Collected%20Tales.m4a</link>
+      <enclosure url="https://atp-audio-prod.s3.eu-west-2.amazonaws.com/cosmere/ArcanumUnbounded/Mistborn-%20Collected%20Tales.m4a" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>5:55:4</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ArcanumUnboundedMCT</guid>
+    </item>
+
   <item>
       <title>Arcanum_Unbounded 07 (8-1)</title>
       <itunes:summary>Part 07 of Arcanum Unbounded; The Cosmere Collection</itunes:summary>
