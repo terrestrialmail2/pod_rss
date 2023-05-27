@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>(Mistborn) Shadows of Self</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+    
+    <item>
+      <title>Shadows of Self 15 (8-2)</title>
+      <itunes:summary>Part 15 of Mistborn 5: Shadows of Self </itunes:summary>
+      <description>This is 2/2 from part of the file MISTBORN05P08.mp3
+Using timecodes 2238.445714285714 to 4476.891428571428
+
+fre:ac
+
+size (MB): 38.005656
+Length: 0:37:18.430000
+Author: GraphicAudio</description>
+      <link>https://audio.jukehost.co.uk/lJFALBhtmO390kP5vROUtbhW0SqASZSO</link>
+      <enclosure url="https://audio.jukehost.co.uk/lJFALBhtmO390kP5vROUtbhW0SqASZSO" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>0:37:18.430000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ShadowsofSelf16</guid>
+    </item>
+    
+  <item>
+      <title>Shadows of Self 14 (8-1)</title>
+      <itunes:summary>Part 14 of Mistborn 5: Shadows of Self </itunes:summary>
+      <description>This is 1/2 from part of the file MISTBORN05P08.mp3
+Using timecodes 0.0 to 2238.445714285714
+
+fre:ac
+
+size (MB): 38.087561
+Length: 0:37:18.480000
+Author: GraphicAudio</description>
+      <link>https://audio.jukehost.co.uk/B0P8VJs8geXtFjhLBGqKUpF7qjqGUe2v</link>
+      <enclosure url="https://audio.jukehost.co.uk/B0P8VJs8geXtFjhLBGqKUpF7qjqGUe2v" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>0:37:18.480000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ShadowsofSelf15</guid>
+    </item>
+    
+  <item>
+      <title>Shadows of Self 13 (7-2)</title>
+      <itunes:summary>Part 13 of Mistborn 5: Shadows of Self </itunes:summary>
+      <description>This is 2/2 from part of the file MISTBORN05P07.mp3
+Using timecodes 2175.5820408163268 to 4351.1640816326535
+
+fre:ac
+
+size (MB): 37.413064
+Length: 0:36:15.580000
+Author: GraphicAudio</description>
+      <link>https://audio.jukehost.co.uk/IarWkRgkrf1qIxR7hu241Zg08hP7JWtj</link>
+      <enclosure url="https://audio.jukehost.co.uk/IarWkRgkrf1qIxR7hu241Zg08hP7JWtj" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>0:36:15.580000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ShadowsofSelf14</guid>
+    </item>
+    
+  <item>
+      <title>Shadows of Self 12 (7-1)</title>
+      <itunes:summary>Part 12 of Mistborn 5: Shadows of Self </itunes:summary>
+      <description>This is 1/2 from part of the file MISTBORN05P07.mp3
+Using timecodes 0.0 to 2175.5820408163268
+
+fre:ac
+
+size (MB): 37.782958
+Length: 0:36:15.600000
+Author: GraphicAudio</description>
+      <link>https://audio.jukehost.co.uk/q9cFkINSmpYyse3EnjoSlD6kiBew6Ka5</link>
+      <enclosure url="https://audio.jukehost.co.uk/q9cFkINSmpYyse3EnjoSlD6kiBew6Ka5" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>0:36:15.600000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ShadowsofSelf13</guid>
+    </item>
+    
+  <item>
+      <title>Shadows of Self 11 (6-2)</title>
+      <itunes:summary>Part 11 of Mistborn 5: Shadows of Self </itunes:summary>
+      <description>This is 2/2 from part of the file MISTBORN05P06.mp3
+Using timecodes 2099.800816326531 to 4199.601632653062
+
+fre:ac
+
+size (MB): 34.774665
+Length: 0:34:59.800000
+Author: GraphicAudio</description>
+      <link>https://audio.jukehost.co.uk/VwAACbrwTJkAaBaPcS6oyifSjV59souW</link>
+      <enclosure url="https://audio.jukehost.co.uk/VwAACbrwTJkAaBaPcS6oyifSjV59souW" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>0:34:59.800000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ShadowsofSelf12</guid>
+    </item>
+    
+  <item>
+      <title>Shadows of Self 10 (6-1)</title>
+      <itunes:summary>Part 10 of Mistborn 5: Shadows of Self </itunes:summary>
+      <description>This is 1/2 from part of the file MISTBORN05P06.mp3
+Using timecodes 0.0 to 2099.800816326531
+
+fre:ac
+
+size (MB): 37.876474
+Length: 0:34:59.820000
+Author: GraphicAudio</description>
+      <link>https://audio.jukehost.co.uk/CRrgtSEYGaIVjwxrktdOb7Jc4rpgbgr5</link>
+      <enclosure url="https://audio.jukehost.co.uk/CRrgtSEYGaIVjwxrktdOb7Jc4rpgbgr5" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>0:34:59.820000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ShadowsofSelf11</guid>
+    </item>
+    
+  <item>
+      <title>Shadows of Self 9 (5-2)</title>
+      <itunes:summary>Part 9 of Mistborn 5: Shadows of Self </itunes:summary>
+      <description>This is 2/2 from part of the file MISTBORN05P05.mp3
+Using timecodes 2094.5763265306123 to 4189.152653061225
+
+fre:ac
+
+size (MB): 36.047334
+Length: 0:34:54.570000
+Author: GraphicAudio</description>
+      <link>https://audio.jukehost.co.uk/9IW3ED3jNI9hrEvMtXcd6mKrBD6XaGZr</link>
+      <enclosure url="https://audio.jukehost.co.uk/9IW3ED3jNI9hrEvMtXcd6mKrBD6XaGZr" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>0:34:54.570000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ShadowsofSelf10</guid>
+    </item>
+    
+  <item>
+      <title>Shadows of Self 8 (5-1)</title>
+      <itunes:summary>Part 8 of Mistborn 5: Shadows of Self </itunes:summary>
+      <description>This is 1/2 from part of the file MISTBORN05P05.mp3
+Using timecodes 0.0 to 2094.5763265306123
+
+fre:ac
+
+size (MB): 36.345125
+Length: 0:34:54.600000
+Author: GraphicAudio</description>
+      <link>https://audio.jukehost.co.uk/C6snqxrtr0lusdmKH6ODJPESp6hjimtd</link>
+      <enclosure url="https://audio.jukehost.co.uk/C6snqxrtr0lusdmKH6ODJPESp6hjimtd" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>0:34:54.600000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ShadowsofSelf9</guid>
+    </item>
+    
+  <item>
+      <title>Shadows of Self 7 (4-2)</title>
+      <itunes:summary>Part 7 of Mistborn 5: Shadows of Self </itunes:summary>
+      <description>This is 2/2 from part of the file MISTBORN05P04.mp3
+Using timecodes 2193.0057142857145 to 4386.011428571429
+
+fre:ac
+
+size (MB): 38.133124
+Length: 0:36:33
+Author: GraphicAudio</description>
+      <link>https://audio.jukehost.co.uk/EnkCsKLrlEu20YgOvnKL8GBFKbpci5na</link>
+      <enclosure url="https://audio.jukehost.co.uk/EnkCsKLrlEu20YgOvnKL8GBFKbpci5na" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>0:36:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ShadowsofSelf8</guid>
+    </item>
+    
+  <item>
+      <title>Shadows of Self 6 (4-1)</title>
+      <itunes:summary>Part 6 of Mistborn 5: Shadows of Self </itunes:summary>
+      <description>This is 1/2 from part of the file MISTBORN05P04.mp3
+Using timecodes 0.0 to 2193.0057142857145
+
+fre:ac
+
+size (MB): 37.019646
+Length: 0:36:33.030000
+Author: GraphicAudio</description>
+      <link>https://audio.jukehost.co.uk/RiEiDmSyfOD0mlXns14a6VHSv15lVjVS</link>
+      <enclosure url="https://audio.jukehost.co.uk/RiEiDmSyfOD0mlXns14a6VHSv15lVjVS" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>0:36:33.030000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ShadowsofSelf7</guid>
+    </item>
+    
+  <item>
+      <title>Shadows of Self 5 (3-2)</title>
+      <itunes:summary>Part 5 of Mistborn 5: Shadows of Self </itunes:summary>
+      <description>This is 2/2 from part of the file MISTBORN05P03.mp3
+Using timecodes 2124.930612244898 to 4249.861224489796
+
+fre:ac
+
+size (MB): 35.160318
+Length: 0:35:24.930000
+Author: GraphicAudio</description>
+      <link>https://audio.jukehost.co.uk/pNC1TGztOffEEVClbljZuQjVRmzAssgw</link>
+      <enclosure url="https://audio.jukehost.co.uk/pNC1TGztOffEEVClbljZuQjVRmzAssgw" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>0:35:24.930000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ShadowsofSelf6</guid>
+    </item>
+    
+  <item>
+      <title>Shadows of Self 4 (3-1)</title>
+      <itunes:summary>Part 4 of Mistborn 5: Shadows of Self </itunes:summary>
+      <description>This is 1/2 from part of the file MISTBORN05P03.mp3
+Using timecodes 0.0 to 2124.930612244898
+
+fre:ac
+
+size (MB): 39.667949
+Length: 0:35:24.950000
+Author: GraphicAudio</description>
+      <link>https://audio.jukehost.co.uk/RXf8Rzt1OWL6yLGNZAkVQPWkGozz6NOG</link>
+      <enclosure url="https://audio.jukehost.co.uk/RXf8Rzt1OWL6yLGNZAkVQPWkGozz6NOG" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>0:35:24.950000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ShadowsofSelf5</guid>
+    </item>
+    
+  <item>
+      <title>Shadows of Self 3 (2-2)</title>
+      <itunes:summary>Part 3 of Mistborn 5: Shadows of Self </itunes:summary>
+      <description>This is 2/2 from part of the file MISTBORN05P02.mp3
+Using timecodes 2065.5020408163264 to 4131.004081632653
+
+fre:ac
+
+size (MB): 36.581579
+Length: 0:34:25.500000
+Author: GraphicAudio</description>
+      <link>https://audio.jukehost.co.uk/y76SAYG96SpRnGHDPD4UhI4b9wVAJYOG</link>
+      <enclosure url="https://audio.jukehost.co.uk/y76SAYG96SpRnGHDPD4UhI4b9wVAJYOG" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>0:34:25.500000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ShadowsofSelf4</guid>
+    </item>
+    
+  <item>
+      <title>Shadows of Self 2 (2-1)</title>
+      <itunes:summary>Part 2 of Mistborn 5: Shadows of Self </itunes:summary>
+      <description>This is 1/2 from part of the file MISTBORN05P02.mp3
+Using timecodes 0.0 to 2065.5020408163264
+
+fre:ac
+
+size (MB): 36.634184
+Length: 0:34:25.520000
+Author: GraphicAudio</description>
+      <link>https://audio.jukehost.co.uk/vF2C1DerxD2gJudClW0o5a2Zvl5c734t</link>
+      <enclosure url="https://audio.jukehost.co.uk/vF2C1DerxD2gJudClW0o5a2Zvl5c734t" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>0:34:25.520000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ShadowsofSelf3</guid>
+    </item>
+    
+  <item>
+      <title>Shadows of Self 1 (1-2)</title>
+      <itunes:summary>Part 1 of Mistborn 5: Shadows of Self </itunes:summary>
+      <description>This is 2/2 from part of the file MISTBORN05P01.mp3
+Using timecodes 1931.9771428571428 to 3863.9542857142856
+
+fre:ac
+
+size (MB): 31.785657
+Length: 0:32:11.960000
+Author: GraphicAudio</description>
+      <link>https://audio.jukehost.co.uk/MjL1H4huWdc5Nd969xmGIR8kEq6wznBG</link>
+      <enclosure url="https://audio.jukehost.co.uk/MjL1H4huWdc5Nd969xmGIR8kEq6wznBG" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>0:32:11.960000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ShadowsofSelf2</guid>
+    </item>
+    
+  <item>
+      <title>Shadows of Self 0 (1-1)</title>
+      <itunes:summary>Part 0 of Mistborn 5: Shadows of Self </itunes:summary>
+      <description>This is 1/2 from part of the file MISTBORN05P01.mp3
+Using timecodes 0.0 to 1931.9771428571428
+
+fre:ac
+
+size (MB): 31.53789
+Length: 0:32:12.010000
+Author: GraphicAudio</description>
+      <link>https://audio.jukehost.co.uk/jt9whnu4lZJ48ZV5IaC4qUZD3dkvxaqO</link>
+      <enclosure url="https://audio.jukehost.co.uk/jt9whnu4lZJ48ZV5IaC4qUZD3dkvxaqO" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>GraphicAudio</itunes:author>
+      <itunes:duration>0:32:12.010000</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/ShadowsofSelf1</guid>
+    </item>
+    
+  </channel>
+</rss>
