@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>(Mistborn) The Bands of Mourning</title>
+    <link>http://www.example.com/</link>
+    <language>en-us</language>
+    <itunes:subtitle>Subtitle of podcast</itunes:subtitle>
+    <itunes:author>Author Name</itunes:author>
+    <itunes:summary>Description of podcast.</itunes:summary>
+    <description>Description of podcast.</description>
+    <itunes:owner>
+      <itunes:name>Owner Name</itunes:name>
+      <itunes:email>me@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.example.com/podcast-icon.jpg" />
+    <itunes:category text="Music" />
+    
+    <item>
+      <title>The Bands of Mourning 19 (10-2)</title>
+      <itunes:summary>Part 19 of Mistborn 6: The Bands of Mourning (2 of 2)</itunes:summary>
+      <description>This is 2/2 from part of the file The Bands of Mourning - Part 10.mp3
+Using timecodes 1731.3499946268598 to 3462.6999892537197
+
+Written by Brandon Sanderson - Performed by Terence Aselford as Narrator, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Nora Achrati, Chris Davenport, Gregory Linington, Tony Nam, Nanna Ingvarrson, Andy Brownstein, Karen Novak, Lincoln Zada, John Dow, Evan Casey, Scott McCormick, Christopher Scheeren, Richard Cutting, Nanette Savard, Michael John Casey, Richard Rohan, Christopher Walker, Eric Messner, Nick DePinto and David Jourdan.
+
+size (MB): 28.478926
+Length: 0:28:50.010000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/e59bzeWQKfLyuMlNlTmORxQnCiMgphVt</link>
+      <enclosure url="https://audio.jukehost.co.uk/e59bzeWQKfLyuMlNlTmORxQnCiMgphVt" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:28:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning20</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 18 (10-1)</title>
+      <itunes:summary>Part 18 of Mistborn 6: The Bands of Mourning (2 of 2)</itunes:summary>
+      <description>This is 1/2 from part of the file The Bands of Mourning - Part 10.mp3
+Using timecodes 0.0 to 1731.3499946268598
+
+Written by Brandon Sanderson - Performed by Terence Aselford as Narrator, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Nora Achrati, Chris Davenport, Gregory Linington, Tony Nam, Nanna Ingvarrson, Andy Brownstein, Karen Novak, Lincoln Zada, John Dow, Evan Casey, Scott McCormick, Christopher Scheeren, Richard Cutting, Nanette Savard, Michael John Casey, Richard Rohan, Christopher Walker, Eric Messner, Nick DePinto and David Jourdan.
+
+size (MB): 28.491167
+Length: 0:28:51.390000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/IZKH0On467wUHVHJmBtsQcTCMUg1YOFq</link>
+      <enclosure url="https://audio.jukehost.co.uk/IZKH0On467wUHVHJmBtsQcTCMUg1YOFq" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:28:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning19</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 17 (9-2)</title>
+      <itunes:summary>Part 17 of Mistborn 6: The Bands of Mourning (2 of 2)</itunes:summary>
+      <description>This is 2/2 from part of the file The Bands of Mourning - Part 09.mp3
+Using timecodes 1869.433600687762 to 3738.867201375524
+
+Written by Brandon Sanderson - Performed by Terence Aselford as Narrator, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Nora Achrati, Chris Davenport, Gregory Linington, Tony Nam, Nanna Ingvarrson, Andy Brownstein, Karen Novak, Lincoln Zada, John Dow, Evan Casey, Scott McCormick, Christopher Scheeren, Richard Cutting, Nanette Savard, Michael John Casey, Richard Rohan, Christopher Walker, Eric Messner, Nick DePinto and David Jourdan.
+
+size (MB): 31.25969
+Length: 0:31:07.960000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/ATN5nMC0PLjLurYkowq2gN0LhTF7JLSO</link>
+      <enclosure url="https://audio.jukehost.co.uk/ATN5nMC0PLjLurYkowq2gN0LhTF7JLSO" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:31:07</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning18</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 16 (9-1)</title>
+      <itunes:summary>Part 16 of Mistborn 6: The Bands of Mourning (2 of 2)</itunes:summary>
+      <description>This is 1/2 from part of the file The Bands of Mourning - Part 09.mp3
+Using timecodes 0.0 to 1869.433600687762
+
+Written by Brandon Sanderson - Performed by Terence Aselford as Narrator, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Nora Achrati, Chris Davenport, Gregory Linington, Tony Nam, Nanna Ingvarrson, Andy Brownstein, Karen Novak, Lincoln Zada, John Dow, Evan Casey, Scott McCormick, Christopher Scheeren, Richard Cutting, Nanette Savard, Michael John Casey, Richard Rohan, Christopher Walker, Eric Messner, Nick DePinto and David Jourdan.
+
+size (MB): 32.154129
+Length: 0:31:09.470000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/zGMLxHheEX8vGJm5dYfvzoGQojITu60t</link>
+      <enclosure url="https://audio.jukehost.co.uk/zGMLxHheEX8vGJm5dYfvzoGQojITu60t" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:31:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning17</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 15 (8-2)</title>
+      <itunes:summary>Part 15 of Mistborn 6: The Bands of Mourning (2 of 2)</itunes:summary>
+      <description>This is 2/2 from part of the file The Bands of Mourning - Part 08.mp3
+Using timecodes 2157.7915964087883 to 4315.583192817577
+
+Written by Brandon Sanderson - Performed by Terence Aselford as Narrator, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Nora Achrati, Chris Davenport, Gregory Linington, Tony Nam, Nanna Ingvarrson, Andy Brownstein, Karen Novak, Lincoln Zada, John Dow, Evan Casey, Scott McCormick, Christopher Scheeren, Richard Cutting, Nanette Savard, Michael John Casey, Richard Rohan, Christopher Walker, Eric Messner, Nick DePinto and David Jourdan.
+
+size (MB): 34.704579
+Length: 0:35:56.120000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/hfkbPpKOVlE7lHlzcHyD0RXhxwlz33j4</link>
+      <enclosure url="https://audio.jukehost.co.uk/hfkbPpKOVlE7lHlzcHyD0RXhxwlz33j4" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:35:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning16</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 14 (8-1)</title>
+      <itunes:summary>Part 14 of Mistborn 6: The Bands of Mourning (2 of 2)</itunes:summary>
+      <description>This is 1/2 from part of the file The Bands of Mourning - Part 08.mp3
+Using timecodes 0.0 to 2157.7915964087883
+
+Written by Brandon Sanderson - Performed by Terence Aselford as Narrator, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Nora Achrati, Chris Davenport, Gregory Linington, Tony Nam, Nanna Ingvarrson, Andy Brownstein, Karen Novak, Lincoln Zada, John Dow, Evan Casey, Scott McCormick, Christopher Scheeren, Richard Cutting, Nanette Savard, Michael John Casey, Richard Rohan, Christopher Walker, Eric Messner, Nick DePinto and David Jourdan.
+
+size (MB): 37.108512
+Length: 0:35:57.810000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/qcIpH7A2dkussztr705hWPky1ezuBxtM</link>
+      <enclosure url="https://audio.jukehost.co.uk/qcIpH7A2dkussztr705hWPky1ezuBxtM" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:35:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning15</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 13 (7-2)</title>
+      <itunes:summary>Part 13 of Mistborn 6: The Bands of Mourning (2 of 2)</itunes:summary>
+      <description>This is 2/2 from part of the file The Bands of Mourning - Part 07.mp3
+Using timecodes 2031.6896786862183 to 4063.3793573724365
+
+Written by Brandon Sanderson - Performed by Terence Aselford as Narrator, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Nora Achrati, Chris Davenport, Gregory Linington, Tony Nam, Nanna Ingvarrson, Andy Brownstein, Karen Novak, Lincoln Zada, John Dow, Evan Casey, Scott McCormick, Christopher Scheeren, Richard Cutting, Nanette Savard, Michael John Casey, Richard Rohan, Christopher Walker, Eric Messner, Nick DePinto and David Jourdan.
+
+size (MB): 34.795321
+Length: 0:33:50.100000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/gBwuOb29glvcJnozrBzpauioQ00QcLna</link>
+      <enclosure url="https://audio.jukehost.co.uk/gBwuOb29glvcJnozrBzpauioQ00QcLna" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:33:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning14</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 12 (7-1)</title>
+      <itunes:summary>Part 12 of Mistborn 6: The Bands of Mourning (2 of 2)</itunes:summary>
+      <description>This is 1/2 from part of the file The Bands of Mourning - Part 07.mp3
+Using timecodes 0.0 to 2031.6896786862183
+
+Written by Brandon Sanderson - Performed by Terence Aselford as Narrator, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Nora Achrati, Chris Davenport, Gregory Linington, Tony Nam, Nanna Ingvarrson, Andy Brownstein, Karen Novak, Lincoln Zada, John Dow, Evan Casey, Scott McCormick, Christopher Scheeren, Richard Cutting, Nanette Savard, Michael John Casey, Richard Rohan, Christopher Walker, Eric Messner, Nick DePinto and David Jourdan.
+
+size (MB): 35.136014
+Length: 0:33:51.720000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/gFdjjJ1bIUmdOYRMqmsNurwupHd8rpFO</link>
+      <enclosure url="https://audio.jukehost.co.uk/gFdjjJ1bIUmdOYRMqmsNurwupHd8rpFO" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:33:51</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning13</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 11 (6-2)</title>
+      <itunes:summary>Part 11 of Mistborn 6: The Bands of Mourning (2 of 2)</itunes:summary>
+      <description>This is 2/2 from part of the file The Bands of Mourning - Part 06.mp3
+Using timecodes 2097.347341272555 to 4194.69468254511
+
+Written by Brandon Sanderson - Performed by Terence Aselford as Narrator, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Nora Achrati, Chris Davenport, Gregory Linington, Tony Nam, Nanna Ingvarrson, Andy Brownstein, Karen Novak, Lincoln Zada, John Dow, Evan Casey, Scott McCormick, Christopher Scheeren, Richard Cutting, Nanette Savard, Michael John Casey, Richard Rohan, Christopher Walker, Eric Messner, Nick DePinto and David Jourdan.
+
+size (MB): 34.803269
+Length: 0:34:55.720000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/KEEh4B7ezCVSZx7Dc3myDsLEFdWfjZHq</link>
+      <enclosure url="https://audio.jukehost.co.uk/KEEh4B7ezCVSZx7Dc3myDsLEFdWfjZHq" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:34:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning12</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 10 (6-1)</title>
+      <itunes:summary>Part 10 of Mistborn 6: The Bands of Mourning (2 of 2)</itunes:summary>
+      <description>This is 1/2 from part of the file The Bands of Mourning - Part 06.mp3
+Using timecodes 0.0 to 2097.347341272555
+
+Written by Brandon Sanderson - Performed by Terence Aselford as Narrator, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Nora Achrati, Chris Davenport, Gregory Linington, Tony Nam, Nanna Ingvarrson, Andy Brownstein, Karen Novak, Lincoln Zada, John Dow, Evan Casey, Scott McCormick, Christopher Scheeren, Richard Cutting, Nanette Savard, Michael John Casey, Richard Rohan, Christopher Walker, Eric Messner, Nick DePinto and David Jourdan.
+
+size (MB): 36.161784
+Length: 0:34:57.390000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/ZSqtJsasQIbELSKtawxMeq6ncD4noyuX</link>
+      <enclosure url="https://audio.jukehost.co.uk/ZSqtJsasQIbELSKtawxMeq6ncD4noyuX" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:34:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning11</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 09 (5-2)</title>
+      <itunes:summary>Part 09 of Mistborn 6: The Bands of Mourning (1 of 2)</itunes:summary>
+      <description>This is 2/2 from part of the file The Bands of Mourning - Part 05.mp3
+Using timecodes 2112.412672795303 to 4224.825345590606
+
+Written by Brandon Sanderson - Performed by Terence Aselford, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Matthew Keenan, Nora Achrati, Chris Davenport, David Jourdan, Dawn Ursala, Laura C. Harris, Eric Messner, Christopher Walker, Brian Hemmingsen, Lincoln Zada, Nana Ingvarrson, Lily Beacon, Andy Brownstein, Nick DePinto, Michael Glenn, Amanda Forstrom, Bill Gillett, Scott McCormick, Richard Cutting, Todd Scofield, Tony Nam, Colleen Delany, Christopher Scheeren, Maggie Donnelly, Evan Casey, Tia Shearer, Deidra Starnes, Ken Jackson, Karen Novack, James Lewis and Nanette Savard
+
+size (MB): 35.064078
+Length: 0:35:10.770000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/ycsbIAl1LnQN2Q2uYbxaM8OsjTu3JiwJ</link>
+      <enclosure url="https://audio.jukehost.co.uk/ycsbIAl1LnQN2Q2uYbxaM8OsjTu3JiwJ" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:35:10</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning10</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 08 (5-1)</title>
+      <itunes:summary>Part 08 of Mistborn 6: The Bands of Mourning (1 of 2)</itunes:summary>
+      <description>This is 1/2 from part of the file The Bands of Mourning - Part 05.mp3
+Using timecodes 0.0 to 2112.412672795303
+
+Written by Brandon Sanderson - Performed by Terence Aselford, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Matthew Keenan, Nora Achrati, Chris Davenport, David Jourdan, Dawn Ursala, Laura C. Harris, Eric Messner, Christopher Walker, Brian Hemmingsen, Lincoln Zada, Nana Ingvarrson, Lily Beacon, Andy Brownstein, Nick DePinto, Michael Glenn, Amanda Forstrom, Bill Gillett, Scott McCormick, Richard Cutting, Todd Scofield, Tony Nam, Colleen Delany, Christopher Scheeren, Maggie Donnelly, Evan Casey, Tia Shearer, Deidra Starnes, Ken Jackson, Karen Novack, James Lewis and Nanette Savard
+
+size (MB): 35.510558
+Length: 0:35:12.440000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/Lmt9aC5JJxHgFoMN6Z0n8ifxo8LhdRPA</link>
+      <enclosure url="https://audio.jukehost.co.uk/Lmt9aC5JJxHgFoMN6Z0n8ifxo8LhdRPA" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:35:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning9</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 07 (4-2)</title>
+      <itunes:summary>Part 07 of Mistborn 6: The Bands of Mourning (1 of 2)</itunes:summary>
+      <description>This is 2/2 from part of the file The Bands of Mourning - Part 04.mp3
+Using timecodes 2196.25848125751 to 4392.51696251502
+
+Written by Brandon Sanderson - Performed by Terence Aselford, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Matthew Keenan, Nora Achrati, Chris Davenport, David Jourdan, Dawn Ursala, Laura C. Harris, Eric Messner, Christopher Walker, Brian Hemmingsen, Lincoln Zada, Nana Ingvarrson, Lily Beacon, Andy Brownstein, Nick DePinto, Michael Glenn, Amanda Forstrom, Bill Gillett, Scott McCormick, Richard Cutting, Todd Scofield, Tony Nam, Colleen Delany, Christopher Scheeren, Maggie Donnelly, Evan Casey, Tia Shearer, Deidra Starnes, Ken Jackson, Karen Novack, James Lewis and Nanette Savard
+
+size (MB): 35.764291
+Length: 0:36:34.540000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/js9CJKzoxzM7vlS4uRRhLjEIQ9nxRq26</link>
+      <enclosure url="https://audio.jukehost.co.uk/js9CJKzoxzM7vlS4uRRhLjEIQ9nxRq26" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:36:34</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning8</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 06 (4-1)</title>
+      <itunes:summary>Part 06 of Mistborn 6: The Bands of Mourning (1 of 2)</itunes:summary>
+      <description>This is 1/2 from part of the file The Bands of Mourning - Part 04.mp3
+Using timecodes 0.0 to 2196.25848125751
+
+Written by Brandon Sanderson - Performed by Terence Aselford, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Matthew Keenan, Nora Achrati, Chris Davenport, David Jourdan, Dawn Ursala, Laura C. Harris, Eric Messner, Christopher Walker, Brian Hemmingsen, Lincoln Zada, Nana Ingvarrson, Lily Beacon, Andy Brownstein, Nick DePinto, Michael Glenn, Amanda Forstrom, Bill Gillett, Scott McCormick, Richard Cutting, Todd Scofield, Tony Nam, Colleen Delany, Christopher Scheeren, Maggie Donnelly, Evan Casey, Tia Shearer, Deidra Starnes, Ken Jackson, Karen Novack, James Lewis and Nanette Savard
+
+size (MB): 36.923029
+Length: 0:36:36.290000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/TgRtDZByWfEpnRwgObb921XotjwqiL5R</link>
+      <enclosure url="https://audio.jukehost.co.uk/TgRtDZByWfEpnRwgObb921XotjwqiL5R" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:36:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning7</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 05 (3-2)</title>
+      <itunes:summary>Part 05 of Mistborn 6: The Bands of Mourning (1 of 2)</itunes:summary>
+      <description>This is 2/2 from part of the file The Bands of Mourning - Part 03.mp3
+Using timecodes 2111.2105899707894 to 4222.421179941579
+
+Written by Brandon Sanderson - Performed by Terence Aselford, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Matthew Keenan, Nora Achrati, Chris Davenport, David Jourdan, Dawn Ursala, Laura C. Harris, Eric Messner, Christopher Walker, Brian Hemmingsen, Lincoln Zada, Nana Ingvarrson, Lily Beacon, Andy Brownstein, Nick DePinto, Michael Glenn, Amanda Forstrom, Bill Gillett, Scott McCormick, Richard Cutting, Todd Scofield, Tony Nam, Colleen Delany, Christopher Scheeren, Maggie Donnelly, Evan Casey, Tia Shearer, Deidra Starnes, Ken Jackson, Karen Novack, James Lewis and Nanette Savard
+
+size (MB): 35.549952
+Length: 0:35:09.590000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/4ulXCww6gvvPJkVc5qsoETInmjV57Wbm</link>
+      <enclosure url="https://audio.jukehost.co.uk/4ulXCww6gvvPJkVc5qsoETInmjV57Wbm" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:35:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning6</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 04 (3-1)</title>
+      <itunes:summary>Part 04 of Mistborn 6: The Bands of Mourning (1 of 2)</itunes:summary>
+      <description>This is 1/2 from part of the file The Bands of Mourning - Part 03.mp3
+Using timecodes 0.0 to 2111.2105899707894
+
+Written by Brandon Sanderson - Performed by Terence Aselford, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Matthew Keenan, Nora Achrati, Chris Davenport, David Jourdan, Dawn Ursala, Laura C. Harris, Eric Messner, Christopher Walker, Brian Hemmingsen, Lincoln Zada, Nana Ingvarrson, Lily Beacon, Andy Brownstein, Nick DePinto, Michael Glenn, Amanda Forstrom, Bill Gillett, Scott McCormick, Richard Cutting, Todd Scofield, Tony Nam, Colleen Delany, Christopher Scheeren, Maggie Donnelly, Evan Casey, Tia Shearer, Deidra Starnes, Ken Jackson, Karen Novack, James Lewis and Nanette Savard
+
+size (MB): 36.084102
+Length: 0:35:11.240000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/v5ciilgD4bXlfDKaOZFuxIWHw6vBMsW6</link>
+      <enclosure url="https://audio.jukehost.co.uk/v5ciilgD4bXlfDKaOZFuxIWHw6vBMsW6" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:35:11</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning5</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 03 (2-2)</title>
+      <itunes:summary>Part 03 of Mistborn 6: The Bands of Mourning (1 of 2)</itunes:summary>
+      <description>This is 2/2 from part of the file The Bands of Mourning - Part 02.mp3
+Using timecodes 2228.3621457390996 to 4456.724291478199
+
+Written by Brandon Sanderson - Performed by Terence Aselford, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Matthew Keenan, Nora Achrati, Chris Davenport, David Jourdan, Dawn Ursala, Laura C. Harris, Eric Messner, Christopher Walker, Brian Hemmingsen, Lincoln Zada, Nana Ingvarrson, Lily Beacon, Andy Brownstein, Nick DePinto, Michael Glenn, Amanda Forstrom, Bill Gillett, Scott McCormick, Richard Cutting, Todd Scofield, Tony Nam, Colleen Delany, Christopher Scheeren, Maggie Donnelly, Evan Casey, Tia Shearer, Deidra Starnes, Ken Jackson, Karen Novack, James Lewis and Nanette Savard
+
+size (MB): 37.166107
+Length: 0:37:06.650000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/o1DdyKabViHFXlhmsmD45NPzC7cgoZgF</link>
+      <enclosure url="https://audio.jukehost.co.uk/o1DdyKabViHFXlhmsmD45NPzC7cgoZgF" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:37:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning4</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 02 (2-1)</title>
+      <itunes:summary>Part 02 of Mistborn 6: The Bands of Mourning (1 of 2)</itunes:summary>
+      <description>This is 1/2 from part of the file The Bands of Mourning - Part 02.mp3
+Using timecodes 0.0 to 2228.3621457390996
+
+Written by Brandon Sanderson - Performed by Terence Aselford, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Matthew Keenan, Nora Achrati, Chris Davenport, David Jourdan, Dawn Ursala, Laura C. Harris, Eric Messner, Christopher Walker, Brian Hemmingsen, Lincoln Zada, Nana Ingvarrson, Lily Beacon, Andy Brownstein, Nick DePinto, Michael Glenn, Amanda Forstrom, Bill Gillett, Scott McCormick, Richard Cutting, Todd Scofield, Tony Nam, Colleen Delany, Christopher Scheeren, Maggie Donnelly, Evan Casey, Tia Shearer, Deidra Starnes, Ken Jackson, Karen Novack, James Lewis and Nanette Savard
+
+size (MB): 34.056528
+Length: 0:37:08.400000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/BXHEt3fG0oPwwx4TsKHyXvpAsfasqlHp</link>
+      <enclosure url="https://audio.jukehost.co.uk/BXHEt3fG0oPwwx4TsKHyXvpAsfasqlHp" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:37:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning3</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 01 (1-2)</title>
+      <itunes:summary>Part 01 of Mistborn 6: The Bands of Mourning (1 of 2)</itunes:summary>
+      <description>This is 2/2 from part of the file The Bands of Mourning - Part 01.mp3
+Using timecodes 2063.0616269868406 to 4126.123253973681
+
+Written by Brandon Sanderson - Performed by Terence Aselford, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Matthew Keenan, Nora Achrati, Chris Davenport, David Jourdan, Dawn Ursala, Laura C. Harris, Eric Messner, Christopher Walker, Brian Hemmingsen, Lincoln Zada, Nana Ingvarrson, Lily Beacon, Andy Brownstein, Nick DePinto, Michael Glenn, Amanda Forstrom, Bill Gillett, Scott McCormick, Richard Cutting, Todd Scofield, Tony Nam, Colleen Delany, Christopher Scheeren, Maggie Donnelly, Evan Casey, Tia Shearer, Deidra Starnes, Ken Jackson, Karen Novack, James Lewis and Nanette Savard
+
+size (MB): 33.009485
+Length: 0:34:21.470000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/lZvheoAbpF6AoO9SwRwKPSbTY9EYRt3p</link>
+      <enclosure url="https://audio.jukehost.co.uk/lZvheoAbpF6AoO9SwRwKPSbTY9EYRt3p" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:34:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning2</guid>
+    </item>
+    
+  <item>
+      <title>The Bands of Mourning 00 (1-1)</title>
+      <itunes:summary>Part 00 of Mistborn 6: The Bands of Mourning (1 of 2)</itunes:summary>
+      <description>This is 1/2 from part of the file The Bands of Mourning - Part 01.mp3
+Using timecodes 0.0 to 2063.0616269868406
+
+Written by Brandon Sanderson - Performed by Terence Aselford, Chris Genebach, Bradley Smith, Dani Stoller, Eva Wilhelm, Tracy Olivera, Matthew Keenan, Nora Achrati, Chris Davenport, David Jourdan, Dawn Ursala, Laura C. Harris, Eric Messner, Christopher Walker, Brian Hemmingsen, Lincoln Zada, Nana Ingvarrson, Lily Beacon, Andy Brownstein, Nick DePinto, Michael Glenn, Amanda Forstrom, Bill Gillett, Scott McCormick, Richard Cutting, Todd Scofield, Tony Nam, Colleen Delany, Christopher Scheeren, Maggie Donnelly, Evan Casey, Tia Shearer, Deidra Starnes, Ken Jackson, Karen Novack, James Lewis and Nanette Savard
+
+size (MB): 34.574101
+Length: 0:34:23.090000
+Author: Brandon Sanderson</description>
+      <link>https://audio.jukehost.co.uk/rNs4KfDDjZycgUZZl24gdqf6GwsmGXbh</link>
+      <enclosure url="https://audio.jukehost.co.uk/rNs4KfDDjZycgUZZl24gdqf6GwsmGXbh" type="audio/mpeg" length="1024" />
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <itunes:author>Brandon Sanderson</itunes:author>
+      <itunes:duration>0:34:23</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid>http://example.com/TheBandsofMourning1</guid>
+    </item>
+    
+  </channel>
+</rss>
